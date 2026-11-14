@@ -7,22 +7,48 @@ bibliography:
     publisher: Fireflies Press
     films:
       - La captive
-      
+    tags: 
+      - Chantal Akerman
+      - Marcel Proust
+    notes: >
+    quotes:
+      - "She did not reread [The Prisoner] before writing the screenplay, but later went back to fill in details, so that the film floats free of the novel while also being dense with references."
+    
+  - title: "The Captive: Frédéric Bonnaud talks to Chantal Akerman"
+    in: 
+      title: Enthusiasm
+      issue: 4
+      year: 2001
+    pages: 12-17
+    tags: 
+      - Chantal Akerman
+      - interview
+    quotes:
+      - I thought that literary works should not be adapted to film, that music should not be used, that cutaways and shot/counter-shots should not be used — these kinds of prohibitions. I was radical, undoubtedly too much so, but I needed to be in order to define myself, form myself as a filmmaker.
+
   - title: "Chantal Akerman: Filmmaker and Philosopher"
     author: Novakovic, Andreja
     year: 2025
     publisher: Bloomsbury Academic
+    tags: 
+      - Chantal Akerman
 
   - title: My Mother Laughs
     author: Akerman, Chantal
     translator: Shrier, Daniella
     year: 2019
     publisher: Silver Press
+    tags: 
+      - Chantal Akerman
 
   - title: "Nothing Happens: Chantal Akerman's Hyperrealist Everyday"
     author: Margulies, Ivone
     year: 1996
     publisher: Duke University Press
+    tags: 
+      - Chantal Akerman
+    quotes:
+      - "[News from Home] questions the notion of presence, of an evident, unified source for an utterance, at the very moment at which difference and distance seem abolished: the moment of voicing. Addresser and addressee are collapsed, disavowing an essential identity for either."
 
   - title: "Chantal Akerman: Afterlives"
     ref: afterlives
@@ -31,26 +57,36 @@ bibliography:
       - Wilson, Emma
     year: 2019
     publisher: Legenda
+    tags: 
+      - Chantal Akerman
 
   - title: "A Tree in the Wind: Chantal Akerman's Later Self-Portraits in Installation and Film"
     author: Flitterman-Lewis, Sandy
     in: afterlives
     pages: 13-25
+    tags: 
+      - Chantal Akerman
 
   - title: Moeder, Maman, Mom
     author: Mavor, Carol
     in: afterlives
     pages: 26-40
+    tags: 
+      - Chantal Akerman
   
   - title: "Smokescreens: Notes on Cigarettes in Chantal Akerman"
     author: Blackhurst, Alice
     in: afterlives
     pages: 41-53
+    tags: 
+      - Chantal Akerman
 
   - title: "Ageless: Akerman's Avatars"
     author: Chamarette, Jenny
     in: afterlives
     pages: 54-65
+    tags: 
+      - Chantal Akerman
 
   - title: "Real Estates: The Comedy of Spaces and Things in Chantal Akerman's Demain on déménage"
     authors:
@@ -58,62 +94,136 @@ bibliography:
       - Jacobs, Steven
     in: afterlives
     pages: 66-76
+    tags: 
+      - Chantal Akerman
 
   - title: Diaries, Thresholds and Gazes as Anamnesis in Chantal Akerman's Cinema
     author: Zanger, Anat
     in: afterlives
     pages: 77-89
+    tags: 
+      - Chantal Akerman
 
   - title: Unknown Deaths in La Captive
     author: Wilson, Emma
     in: afterlives
     pages: 90-101
+    tags: 
+      - Chantal Akerman
 
   - title: "Texas (is not Paris) is Burning: The Drag of Dis/Orientation in Chantal Akerman's Sud"
     author: Mayer, So
     in: afterlives
     pages: 102-114
+    tags: 
+      - Chantal Akerman
 
   - title: "Vocal Landscapes: Framing Mutable Stories in De l'autre côté (2002) and Une voix dans le désert (2002)"
     author: Fox, Albertine
     in: afterlives
     pages: 115-126
+    tags: 
+      - Chantal Akerman
 
   - title: "'Like a Musical Piece': Akerman and Musicality"
     author: Roberts, Adam
     in: afterlives
     pages: 127-138
+    tags: 
+      - Chantal Akerman
 
   - title: Light out of Joint
     author: Béghin, Cyril
     in: afterlives
     pages: 139-149
+    tags: 
+      - Chantal Akerman
 
   - title: "Chantal Akerman: Filmmaker, Video Artist, Writer"
     author: Schmid, Marion
     in: afterlives
     pages: 150-163 
+    tags: 
+      - Chantal Akerman
     
   - title: "Identity and Memory: The Films of Chantal Akerman"
     editor: Foster, Gwendolyn Audrey
     year: 1999
     publisher: Flicks Books
     ref: identity-memory
+    tags: 
+      - Chantal Akerman
 
   - title: Personal pronouncements in I...You...He...She and Portrait of a Young Girl at the End of the 60s in Brussels
     author: Turim, Maureen
     in: identity-memory
     pages: 9-26
+    tags: 
+      - Chantal Akerman
 
   - title: What's beneath her smile? Subjectivity and desire in Germaine Dulac's The Smiling Madame Beudet and Chantal Akerman's Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
     author: Flitterman-Lewis, Sandy
     in: identity-memory
     pages: 27-40
+    tags: 
+      - Chantal Akerman
 
   - title: "The feminine side of New York: travelogue, autobiography and architecture in News from Home"
     author: Barker, Jennifer M
     in: identity-memory
     pages: 41-58
+    tags: 
+      - Chantal Akerman
+      - identity
+      - autobiography
+      - motherhood
+      - daughterhood
+      - New York
+      - architecture
+      - urban space
+      - subjectivity
+      - exile
+      - language
+      - feminism
+      - sound
+      - Walter Benjamin
+      - chora
+      - gender
+    notes:
+      - Reading about the World Trade Center in things from before 9/11 is weird
+      - Ground-level observation of a city is very different from the lofty viewpoint of a skyscraper, not like a "voyeur-god"
+      - Akerman focuses on the minor dwelling spaces rather than major landmarks
+      - The idea of bodies and cities having a reciprocalrelationship of construction and writing-on is very interesting
+      - Takes ideas from de Certeau's "Walking in the City" and applies them to Akerman's work
+      - Walking in the city as an analogue for the act of speaking is also very interesting
+      - Addresses Giuliana Burno's idea of "the touristic gaze"
+      - Defines the architect-subject as generally male and the pedestrian-subject as generally female
+      - Identifies the spaces hidden at the high vantage point as female, by way of the female gendering of "chora" (via Elizabeth Grosz); I'm not sure I totally buy this, but it's something to ponder
+
+      - I love this essay, it's so good
+    films:
+      - News from Home
+    quotes:
+      - "[Akerman] is present only in the sense that she occupies the same spaces in which her subjects live and work"
+      - "The camera never tilts up to catch a glimpse of skyscrapers disappearing into the clouds above, but remains firmly grounded; this is a landscape of subway tunnels, of alleys, of the hidden places of the city, places just outside the margins of visibility and legibility."
+      - "By constructing her own autobiography through the reading of her mother's words, by thus paralleling their autobiographical acts, Akerman demonstrates that subjectivity is a function of connections to others, is constructed within a social context, that it arises and articulates itself only through its relation to others."
+      - "The construction of the self becomes a spatial issue; gender relations are written onto the body of the city, shaping it and shaped by it."
+  - title: "The Avant-Garde: History and Theories"
+    authors:
+      - Penley, Constance
+      - Bergstrom, Janet
+    in:
+      title: Screen
+      volume: 19
+      issue: 3
+      year: 1978
+    pages: 113-128
+    tags:
+      - Chantal Akerman
+    films:
+      - News from Home
+
+    
 
   - title: "Clichés of Identity: Chantal Akerman's Musicals"
     author: Shaviro, Steven
@@ -123,6 +233,8 @@ bibliography:
       issue: 1
       year: 2007
     pages: 11-17
+    tags: 
+      - Chantal Akerman
 
   - title: My Mother's Prison
     author: Shrier, Daniella
@@ -133,6 +245,8 @@ bibliography:
       year: 2026
     accessed: 2026-11-14
     url: https://www.lrb.co.uk/the-paper/v48/n05/daniella-shreir/my-mother-s-prison
+    tags: 
+      - Chantal Akerman
 
   - title: "Veil the Transparent Vision: From Lacanian Registers to the Images of Chantal Akerman"
     author: Wei, Boyang
@@ -141,6 +255,8 @@ bibliography:
       year: 2023
       publisher: Atlantis Press
     pages: 579-589
+    tags: 
+      - Chantal Akerman
 
   - title: "Vertigo of presence: Chantal Akerman's NOW, nomadic dwelling and the 'war machine' within the context of contemporary moving image works"
     author: Thoma, Andrea
@@ -150,6 +266,8 @@ bibliography:
       issue: 2
       year: 2020
     pages: 179-201
+    tags: 
+      - Chantal Akerman
 
   - title: "'A Pedagogy of the Image': Chantal Akerman's Ethics Across Film and Art"
     author: Rennebohm, Kate
@@ -159,6 +277,8 @@ bibliography:
       issue: 1-2
       year: 2019
     pages: 40-53
+    tags: 
+      - Chantal Akerman
 
   - title: "Chantal Akerman's Là-bas: the suspended image and the politics of anti-messianism"
     author: Nigianni, Chrysanthi
@@ -168,6 +288,8 @@ bibliography:
       year: 2013  
     accessed: 2026-11-14
     url: https://www.sensesofcinema.com/2013/feature-articles/chantal-akermans-la-bas-the-suspended-image-and-the-politics-of-anti-messianism/
+    tags: 
+      - Chantal Akerman
 
   - title: Entretien avec Jean-Luc Godard
     in:
@@ -175,6 +297,9 @@ bibliography:
       issue: 19
       year: 1980
     pages: 11
+    tags: 
+      - Chantal Akerman
+      - interview
     
   - title: "A Nothing: The potential for a feminist psychoanalysis of Chantal Akerman's La Captive"
     in:
@@ -183,5 +308,82 @@ bibliography:
       issue: 1
       year: 2010
     pages: 46-55
+    tags: 
+      - Chantal Akerman
 
-  
+  - title: "The Generation of Postmemory: Writing and Visual Culture After the Holocaust"
+    author: Hirsch, Marianne
+    year: 2012
+    publisher: Columbia University Press
+    tags:
+      - postmemory
+
+  - title: "Jacques Lacan: The Basics"
+    author: Neill, Calum
+    year: 2023
+    publisher: Routledge
+    tags: 
+      - Lacan
+
+  - title: Sculpting in Time
+    author: Tarkovsky, Andrei
+    translator: Hunter-Blair, Kitty
+    year: 1985
+    publisher: University of Texas Press
+    tags: 
+      - Tarkovsky
+      - slow cinema
+      - metaphor
+      - symbolism
+      - time
+
+  - title: Poetics of Cinema
+    author: Ruiz, Raúl
+    translator: Holmes, Brian
+    year: 1995
+    publisher: Dis Voir
+
+  - title: "Third-Generation Voices: Memory and Identity in the Palestinian Diaspora"
+    author: Sheets, Kristine
+    year: 2024
+    in:
+      title: Emotions and Society
+      volume: 6
+      issue: 3
+      publisher: Bristol University Press
+      year: 2024
+    pages: 383-402
+    tags:
+      - postmemory
+      - postmemorial objects
+      - memory
+      - diaspora
+
+  - title: "The Practice of Everyday Life"
+    author: de Certeau, Michel
+    year: 1984
+    translator: Rendall, Steven
+    publisher: University of California Press
+    notes: >
+      I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but it seems very interesting. That essay seems to focus on the "Walking in the City" chapter.
+    quotes:
+      - "The act of walking is to the urban system what the speech act is to language or to the statements uttered. At the most elementary level, it has a triple 'enunciative' function: it is a process of appropriation of the topographical system on the part of the pedestrian (just as the speaker appropriates and takes on the language); it is a spatial acting-out of the place (just as the speech act is an acoustic acting-out of language); and it implies relations among differentiated positions, that is, among pragmatic "contracts" in the form of movements (just as verbal enunciation is an "allocution," "posits another opposite" the speaker and puts contracts between interlocutors into action). It thus seems possible to give a preliminary definition of walking as a space of enunciation."
+    tags:
+      - architecture
+      - urban space
+      - language
+
+  - title: Women, Chora, Dwelling
+    author: Grosz, Elizabeth
+    in: 
+      title: Space, Time and Perversion: Essays on the Politics of Bodies
+      year: 1995
+      publisher: Routledge
+    tags:
+      - chora
+      - architecture
+      - urban space
+      - gender
+    notes: >
+      I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but this is where that essay gets the idea of the close-to-the-streets urban space as feminine from.
+    pages: 111-124
