@@ -59,16 +59,20 @@ function formatBriefReference(item, refLookup) {
         const containerEditorText = formatNameList(containerEditors);
 
         const clause = [];
-        if (authorText) clause.push(authorText);
+        if (authorText) clause.push(`${authorText}.`);
 
         const containerBits = [];
         if (containerTitle) containerBits.push(`<i>${containerTitle}</i>`);
         if (containerEditorText) containerBits.push(`edited by ${containerEditorText}`);
-        if (container.year) containerBits.push(String(container.year));
         if (container.publisher) containerBits.push(container.publisher);
 
-        if (containerBits.length) {
-            clause.push(containerBits.join(', ') + '.');
+        let containerString = containerBits.join(', ');
+        if (container.year) {
+            containerString = `${containerString ? `${containerString} ` : ''}(${String(container.year)})`;
+        }
+
+        if (containerString) {
+            clause.push(containerString + '.');
         }
 
         if (item.pages) clause.push(`${item.pages}.`);
@@ -78,15 +82,15 @@ function formatBriefReference(item, refLookup) {
     let parts = [];
 
     if (authorText) {
-        parts.push(authorText);
+        parts.push(`${authorText}`);
+    }
+
+    if (item.year) {
+        parts.push(`(${item.year})`);
     }
 
     if (editorText) {
         parts.push(`Edited by ${editorText}.`);
-    }
-
-    if (item.year) {
-        parts.push(`${item.year}.`);
     }
 
     if (item.pages) {
@@ -110,22 +114,22 @@ function generateThemesHtml(themes) {
     return `
       <div id="themes">
         ${themes.map((theme) => {
-            const notesHtml = theme.notes
-                ? `<ul>${theme.notes
-                    .split('\n')
-                    .filter(Boolean)
-                    .map(note => `<li>${note.replace(/^[-*]\s*/, '')}</li>`)
-                    .join('')}</ul>`
-                : '';
+        const notesHtml = theme.notes
+            ? `<ul>${theme.notes
+                .split('\n')
+                .filter(Boolean)
+                .map(note => `<li>${note.replace(/^[-*]\s*/, '')}</li>`)
+                .join('')}</ul>`
+            : '';
 
-            return `
+        return `
               <article class="theme-card">
                 <h3>${theme.name}</h3>
                 <p>${theme.definition || ''}</p>
                 ${notesHtml}
               </article>
             `;
-        }).join('\n')}
+    }).join('\n')}
       </div>
     `;
 }

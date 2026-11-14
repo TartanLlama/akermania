@@ -154,13 +154,68 @@ bibliography:
     tags: 
       - Chantal Akerman
 
+  - title: "Josephine the Singer, or the Mouse Folk" 
+    author: Kafka, Franz
+    in: 
+      title: The Complete Stories
+      year: 1971
+      publisher: Schocken Books
+    pages: 360-376
+    tags: 
+      - Franz Kafka
+      - unread
+    notes: |
+      - I have not read this yet, but the essay "The Fourth Person Singular (Je Tu Il Elle)" by Jean Narboni references it and I loved the quote he uses from it.
+    quotes:
+      - "To crack a nut is truly no feat, so no one would ever dare to collect an audience in order to entertain it with nut-cracking. But if all the same one does do that and succeeds in entertaining the public, then it cannot be a matter of simple nut-cracking. Or it is a matter of nut-cracking, but it turns out that we have over-looked the art of cracking nuts because we were too skilled in it and that this newcomer to it first shows us its real nature, even finding it useful in making his effects to be rather less expert in nut-cracking than most of us."
+
+  - title: The Fourth Person Singular (Je Tu Il Elle)
+    author: Narboni, Jean
+    in: 
+      title: Cahiers du cinéma
+      issue: 276
+      year: 1976
+    pages: 5-14
+    tags: 
+      - Chantal Akerman
+      - subjectivity
+      - noise
+    films:
+      - Je, tu, il, elle
+    notes: |
+      - Discusses the use of background noise as a crucial element of the film; how it lends the film intensity and is "at the threshold of word-formation"
+      - Looks at the way the third segment defies pornographic conventions of sex through its violence, the sounds, the way the act is announced as limited in time, but especially through the static camera
+      - The static camera, he argues, goes against the usual pornographic conventions of using a multiplicity of shots to create a sense of excitement and of the limitless possibilities of the act
+      - Akerman instead, he suggests, illustrates Lacan's ideas of two bodies being unable to become "One" (l'Un)
+      - He references Kafka's metaphor of nut cracking from "Josephine the Singer, or the Mouse Folk" to describe the way the film uses seemingly mundane techniques and events in a way that invokes intrigue and discussion, so there must be something non-mundane underlying them.
+      - The part of this essay I struggle with is the concept of the "fourth person singular"
+      - TODO more
+    quotes: 
+      - "Sometimes [the commentary of the film] is precise, at other times it is out of sync (ahead of or behind the image), and occasionally it even contradicts what is on screen—describing what she is doing, is about to do, thought she did, or failed to do. Almost never, however, does it reveal what she is thinking or feeling"
+      - "Have artists not proven themselves to be precisely those who, tirelessly, seek to inscribe [...] a sign of that invisible, impossible real, which forever eludes being written down? Like cracking nuts, only to reveal that the point [...] is to do something other than merely cracking nuts; to step outside of language while remaining within it, to move beyond the image while staying within the image; to show no fear of exhibiting oneself or putting oneself on display, all in order to subvert exhibitionism and production themselves."
+
   - title: Personal pronouncements in I...You...He...She and Portrait of a Young Girl at the End of the 60s in Brussels
     author: Turim, Maureen
     in: identity-memory
     pages: 9-26
     tags: 
       - Chantal Akerman
-
+    films:
+      - Je, tu, il, elle
+      - Portrait of a Young Girl at the End of the 60s in Brussels
+    notes: |
+      - Uses the term "personal pronouncements" to describe the fictions that Akerman creates in these two films, because it "conjoins autobiography and enunciation to point towards a revelation of the intimate"
+      - Apparently "personal pronouncements" was the original title of Je, tu, il, elle in the US release
+      - The way that this says all personal filmmaking borders on autobiography is very true to Akerman's work in particular, both through her presence as an actor, and substitution in many of her films (or substitutions for her mother)
+      - Akerman's self suffuses the film even though she seemingly covers it in a veneer of fiction, and this is achieved TODO more
+      - Invokes the psychoanalytic concept of "acting out" (mettre en acte, ageren), indicating "actions taken by a subject in the grip of [their] unconscious wishes and fantasies"
+      - The way the essay discusses the alternation between the textual character's voice and the authorial voice reminds me of the way Margulies describes oscillation between literal and figurative registers
+      - TODO more
+    quotes:
+      - "In some sense, all writing and personal filmmaking border on autobiography, even when placed in the third person, or filmed without direct reference to the filmmaker's body or life"
+      - "even as the self is disguised by these ruses of language, the body of the author dominates the images"
+      - "the revelation of her character's unconscious desires is shadowed by the hint of a revelation of an authorial, personal, autobiographical unconscious, as the space between fictive character and authorial voice is alternatively collapsed and expanded in the film's unfolding"
+  
   - title: What's beneath her smile? Subjectivity and desire in Germaine Dulac's The Smiling Madame Beudet and Chantal Akerman's Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
     author: Flitterman-Lewis, Sandy
     in: identity-memory
@@ -184,7 +239,7 @@ bibliography:
       - Rather than the formal techniques employed representing a sense of interiority, the camera is held at a distance, and the interiority is represented by the performance and text
       - Denying a "point-of-view" perspective and instead being an observer
       - Subjectivity constructed through sustained duration that invite's the viewer's speculation about Jeanne's thoughts
-      - Says that Jeanne's "desires escape articulation", which I think is connected to Lacanian ideas of desire and lack, l'object petit a, etc.
+      - Says that Jeanne's "desires escape articulation", which I think is connected to Lacanian ideas of desire and lack, l'objet petit a, etc.
       - Discusses the absolute truth of an event, how the film conceptualises this as impossible, and that it places the viewer in the centre of meaning-making rather than being authoritative
       - This last point also reminds me of Toshio Matsumoto's ideas about subjectivity and involving the viewer in meaning-making to push for political engagement
       - Posits that the film's action forces the viewer to contemplate female sexuality as a key to unlocking the film's textual meaning: female pleasure is made into an interpretive framework
@@ -325,6 +380,7 @@ bibliography:
       - interview
     
   - title: "A Nothing: The potential for a feminist psychoanalysis of Chantal Akerman's La Captive"
+    author: Blondin-Doan, Emily
     in:
       title: Journal of Undergraduate Studies at Trent (JUST)
       volume: 3
@@ -397,6 +453,7 @@ bibliography:
       - architecture
       - urban space
       - language
+      - unread
 
   - title: Women, Chora, Dwelling
     author: Grosz, Elizabeth
@@ -409,6 +466,7 @@ bibliography:
       - architecture
       - urban space
       - gender
+      - unread
     notes: |
       I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but this is where that essay gets the idea of the close-to-the-streets urban space as feminine from.
     pages: 111-124
@@ -428,7 +486,7 @@ bibliography:
     films:
       - Jeanne Dielman
     notes: |
-      - Short article preceeding an interview with Akerman
+      - Short article preceding an interview with Akerman
       - There is a strong, terse description of how the film constructs subjectivity through non-traditional means
     quotes:
       - "The system of subjective shots is eliminated and with it a logic of spatial matches rationalized by the interest of various characters, The logic of the organization of shots reverts to the camera and its marked controller, a feminist filmmaker."
@@ -484,7 +542,7 @@ bibliography:
       - Michael Snow
       - Andy Warhol
       - Franz Kafka
-      - Deluze & Guattari
+      - Deleuze & Guattari
     notes: |
       - Akerman says she had only seen a couple of Warhol films, counter to what a some sources say about her being heavily influenced by his work
       - Her words about cutting when she feels the shot is finished reminds me of the Every Frame a Painting video essay on editing
@@ -493,7 +551,7 @@ bibliography:
       - Akerman disagrees with Paul Morrissey that characters are always revealed through dialogue. She says they are also revealed through gesture, from the back, from every side, and can be revealed even when offscreen.
       - Akerman believes that characters must have some kind of secret that is held in order to drive curiosity in the viewer. Even further, the secret is not held by the character, but by the actor. This seems to interact with various ideas about desire, from Lacan and Proust. It is very visible in La captive.
       - She planned at some point to do an adaptation of The Manor (1967) by Isaac Bashevis Singer
-      - Akerman references Deluze & Guattari's book on Kafka, where "minor literature" is discussed, which is very relevant as you could see her films as part of a "minor cinema"
+      - Akerman references Deleuze & Guattari's book on Kafka, where "minor literature" is discussed, which is very relevant as you could see her films as part of a "minor cinema"
     quotes:
       - "when I first did [Hotel Monterey], I didn't know exactly how it would look. But I directed the shots like this: I put the camera down, found the frame, and when I felt the shot was finished, stopped it. So the shots are exactly as long as I had the feeling of them inside myself."
       - "When you look at a picture, if you look just one second, you get the information, 'that's a corridor.' But after a while you forget it's a corridor; you just see that it's yellow, red; that it's lines; and then again it comes back as a corridor. If you don't stay long enough, if you don't stare, you will never forget that this is information about a corridor"
@@ -509,12 +567,13 @@ bibliography:
 
   - title: "Kafka: Toward a Minor Literature"
     authors: 
-      - Deluze, Gilles
+      - Deleuze, Gilles
       - Guattari, Félix
     publisher: University of Minnesota Press
     year: 1986
     tags:
-      - Deluze & Guattari
+      - Deleuze & Guattari
+      - unread
     notes: |
       I have not read this yet, but Akerman references it directly for its discussion of the mother tongue, and the idea of "minor literature" is very applicable to Akerman's "minor cinema".
     
@@ -527,7 +586,7 @@ bibliography:
       - subjectivity
     notes: |
       - Very relevant to Akerman in the way that Matsumoto blurred the lines between fact and fiction
-      - He believed that avant-garde neo-documentary was the only truely revolutionary filmmaking practice
+      - He believed that avant-garde neo-documentary was the only truly revolutionary filmmaking practice
       - Like Akerman, he denied a purely objective truth, and instead focused on the viewer's subjectivity, unsettling their habitual perception, and implicating them in the construction of meaning
       - The sections on Vertov and Godard would also be relevant, but I find the connection to Matsumoto more compelling
 
@@ -544,7 +603,6 @@ bibliography:
       - This will be updated with random musings as I slowly make my way through the book
       - I think this is a very relevant book to Akerman's work, especially in terms of the way she captures time and memory, and of course because of her adaptation of The Prisoner in The Captive
       - Desire seems formulated in a similar way to many of Akerman's films, in that it is unattainable, but deeply yearned for, like the dream of a lover that is shattered upon waking
-      - 
     quotes:
       - "my mother [...] watched [my father] with a tender respect, but not so intently as to try to penetrate the mystery of his superior qualities"
 
@@ -569,7 +627,7 @@ themes_and_concepts:
       - From Jacques Derrida
       - Very relevant to Akerman's work, especially in terms of the way she captures spaces that are haunted by the past, such as in Sud and D'Est
 
-  - name: jeztzeit
+  - name: jetztzeit
     definition: time that is ripe with revolutionary possibility, time that has been detached from the continuum of history. It is time at a standstill, poised, filled with energy, and ready to take the 'tiger's leap' into the future.
     notes: |
       - From Walter Benjamin
@@ -617,3 +675,7 @@ themes_and_concepts:
   - name: abjection
 
   - name: jouissance
+
+  - name: acting out
+    definition: Actions taken by a subject in the grip of their unconscious wishes and fantasies
+    
