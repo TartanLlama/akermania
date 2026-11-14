@@ -1,0 +1,26 @@
+{
+  "name": "akermania",
+  "version": "1.0.0",
+  "description": "Chantal Akerman annotated bibliography",
+  "homepage": "https://github.com/TartanLlama/akermania#readme",
+  "bugs": {
+    "url": "https://github.com/TartanLlama/akermania/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TartanLlama/akermania.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Sy Brand",
+  "type": "commonjs",
+  "main": "build.mjs",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js-yaml": "^5.5.0",
+    "marked": "^18.2.0",
+    "prettier": "^3.10.1"
+  }
+}

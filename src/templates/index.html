@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Akermania</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <main>
+        <h1>Akermania</h1>
+        <h2>A Chantal Akerman Annotated Bibliography</h2>
+        <p>My living memory of Chantal Akerman's work, including notes, quotes, themes, and concepts.</p>
+
+        <div class="search-wrap">
+            <label for="search">Search</label>
+            <div class="search-row">
+                <input id="search" type="search" placeholder="Search titles, authors, notes, quotes...">
+                <button id="clear-filters" type="button" class="clear-button">Clear filters</button>
+            </div>
+        </div>
+
+        <div id="tags">
+            <h3>Tags</h3>
+            {{tags}}
+        </div>
+        <div id="films">
+            <h3>Films</h3>
+            {{films}}
+        </div>
+        <div id="bibliography">
+            <h3>Bibliography</h3>
+            <div class="bibliography-actions">
+                <button id="expand-all" type="button" class="clear-button">Expand all</button>
+                <button id="collapse-all" type="button" class="clear-button">Collapse all</button>
+            </div>
+            <div id="results-count" aria-live="polite"></div>
+            {{bibliography}}
+        </div>
+        <div id="themes-section">
+            <h3>Themes &amp; Concepts</h3>
+            {{themes}}
+        </div>
+        <div id="research-questions-section">
+            <h3>Research Questions</h3>
+            {{research_questions}}
+        </div>
+    </main>
+
+    <script src="./app.js"></script>
+</body>
+
+</html>
