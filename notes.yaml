@@ -1,0 +1,187 @@
+---
+
+bibliography:
+  - title: La Captive
+    author: Smallwood, Christine
+    year: 2024
+    publisher: Fireflies Press
+    films:
+      - La captive
+      
+  - title: "Chantal Akerman: Filmmaker and Philosopher"
+    author: Novakovic, Andreja
+    year: 2025
+    publisher: Bloomsbury Academic
+
+  - title: My Mother Laughs
+    author: Akerman, Chantal
+    translator: Shrier, Daniella
+    year: 2019
+    publisher: Silver Press
+
+  - title: "Nothing Happens: Chantal Akerman's Hyperrealist Everyday"
+    author: Margulies, Ivone
+    year: 1996
+    publisher: Duke University Press
+
+  - title: "Chantal Akerman: Afterlives"
+    ref: afterlives
+    editors:
+      - Schmid, Marion
+      - Wilson, Emma
+    year: 2019
+    publisher: Legenda
+
+  - title: "A Tree in the Wind: Chantal Akerman's Later Self-Portraits in Installation and Film"
+    author: Flitterman-Lewis, Sandy
+    in: afterlives
+    pages: 13-25
+
+  - title: Moeder, Maman, Mom
+    author: Mavor, Carol
+    in: afterlives
+    pages: 26-40
+  
+  - title: "Smokescreens: Notes on Cigarettes in Chantal Akerman"
+    author: Blackhurst, Alice
+    in: afterlives
+    pages: 41-53
+
+  - title: "Ageless: Akerman's Avatars"
+    author: Chamarette, Jenny
+    in: afterlives
+    pages: 54-65
+
+  - title: "Real Estates: The Comedy of Spaces and Things in Chantal Akerman's Demain on déménage"
+    authors:
+      - D'Haeyere, Hilde
+      - Jacobs, Steven
+    in: afterlives
+    pages: 66-76
+
+  - title: Diaries, Thresholds and Gazes as Anamnesis in Chantal Akerman's Cinema
+    author: Zanger, Anat
+    in: afterlives
+    pages: 77-89
+
+  - title: Unknown Deaths in La Captive
+    author: Wilson, Emma
+    in: afterlives
+    pages: 90-101
+
+  - title: "Texas (is not Paris) is Burning: The Drag of Dis/Orientation in Chantal Akerman's Sud"
+    author: Mayer, So
+    in: afterlives
+    pages: 102-114
+
+  - title: "Vocal Landscapes: Framing Mutable Stories in De l'autre côté (2002) and Une voix dans le désert (2002)"
+    author: Fox, Albertine
+    in: afterlives
+    pages: 115-126
+
+  - title: "'Like a Musical Piece': Akerman and Musicality"
+    author: Roberts, Adam
+    in: afterlives
+    pages: 127-138
+
+  - title: Light out of Joint
+    author: Béghin, Cyril
+    in: afterlives
+    pages: 139-149
+
+  - title: "Chantal Akerman: Filmmaker, Video Artist, Writer"
+    author: Schmid, Marion
+    in: afterlives
+    pages: 150-163 
+    
+  - title: "Identity and Memory: The Films of Chantal Akerman"
+    editor: Foster, Gwendolyn Audrey
+    year: 1999
+    publisher: Flicks Books
+    ref: identity-memory
+
+  - title: Personal pronouncements in I...You...He...She and Portrait of a Young Girl at the End of the 60s in Brussels
+    author: Turim, Maureen
+    in: identity-memory
+    pages: 9-26
+
+  - title: What's beneath her smile? Subjectivity and desire in Germaine Dulac's The Smiling Madame Beudet and Chantal Akerman's Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
+    author: Flitterman-Lewis, Sandy
+    in: identity-memory
+    pages: 27-40
+
+  - title: "The feminine side of New York: travelogue, autobiography and architecture in News from Home"
+    author: Barker, Jennifer M
+    in: identity-memory
+    pages: 41-58
+
+  - title: "Clichés of Identity: Chantal Akerman's Musicals"
+    author: Shaviro, Steven
+    in: 
+      title: Quarterly Review of Film and Video
+      volume: 24
+      issue: 1
+      year: 2007
+    pages: 11-17
+
+  - title: My Mother's Prison
+    author: Shrier, Daniella
+    in: 
+      title: London Review of Books
+      volume: 48
+      issue: 5
+      year: 2026
+    accessed: 2026-11-14
+    url: https://www.lrb.co.uk/the-paper/v48/n05/daniella-shreir/my-mother-s-prison
+
+  - title: "Veil the Transparent Vision: From Lacanian Registers to the Images of Chantal Akerman"
+    author: Wei, Boyang
+    in:
+      title: Proceedings of the 3rd International Conference on Education, Language and Art (ICELA 2023)
+      year: 2023
+      publisher: Atlantis Press
+    pages: 579-589
+
+  - title: "Vertigo of presence: Chantal Akerman's NOW, nomadic dwelling and the 'war machine' within the context of contemporary moving image works"
+    author: Thoma, Andrea
+    in:
+      title: Journal of Visual Art Practice
+      volume: 19
+      issue: 2
+      year: 2020
+    pages: 179-201
+
+  - title: "'A Pedagogy of the Image': Chantal Akerman's Ethics Across Film and Art"
+    author: Rennebohm, Kate
+    in: 
+      title: The Moving Image Review & Art Journal
+      volume: 8
+      issue: 1-2
+      year: 2019
+    pages: 40-53
+
+  - title: "Chantal Akerman's Là-bas: the suspended image and the politics of anti-messianism"
+    author: Nigianni, Chrysanthi
+    in:
+      title: Senses of Cinema
+      issue: 67
+      year: 2013  
+    accessed: 2026-11-14
+    url: https://www.sensesofcinema.com/2013/feature-articles/chantal-akermans-la-bas-the-suspended-image-and-the-politics-of-anti-messianism/
+
+  - title: Entretien avec Jean-Luc Godard
+    in:
+      title: Ça cinéma
+      issue: 19
+      year: 1980
+    pages: 11
+    
+  - title: "A Nothing: The potential for a feminist psychoanalysis of Chantal Akerman's La Captive"
+    in:
+      title: Journal of Undergraduate Studies at Trent (JUST)
+      volume: 3
+      issue: 1
+      year: 2010
+    pages: 46-55
+
+  
