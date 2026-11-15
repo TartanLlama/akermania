@@ -169,6 +169,31 @@ bibliography:
     quotes:
       - "To crack a nut is truly no feat, so no one would ever dare to collect an audience in order to entertain it with nut-cracking. But if all the same one does do that and succeeds in entertaining the public, then it cannot be a matter of simple nut-cracking. Or it is a matter of nut-cracking, but it turns out that we have over-looked the art of cracking nuts because we were too skilled in it and that this newcomer to it first shows us its real nature, even finding it useful in making his effects to be rather less expert in nut-cracking than most of us."
 
+  - title: The Eyes of the Fourth Person Singular
+    author: Bradley, Joff
+    in:
+      title: Deleuze Studies
+      volume: 9
+      issue: 2
+      year: 2015
+    pages: 185-207
+    tags:
+      - Deleuze & Guattari
+      - subjectivity
+    notes: |
+      - Presents the idea that the voice of the fourth person singular is like T.S. Eliot's idea that "genuine poetry can communicate before it is understood"
+      - Discusses Deleuze's writings on the pronoun "On" (One) and how it relates to the fourth person singular as something depersonalised, evacuated of subjectivity
+      - The infinitive, subjectless, incorporeal events seem to capture the basis of Deleuze's fourth person singular, which then further includes the ontological implications of such events
+      - It seems important that this is not "non-individual", but rather "pre-individual", because these pure events are what constructs the individual
+      - It captures the "splendor of the impersonal they", related to the Other, I would imagine
+    quotes:
+      - "The fourth person singular sees all and understands nothing."
+      - "Although no one speaks the fourth person singular, it nevertheless subsists in all that is said. It is the murmur behind all utterances."
+      - "Deleuze looked to forge a philosophy to dislodge and decentre the 'I', or speaking subject."
+      - "Subjectivity is taken as never pre-existent but always produced."
+      - "Deleuze's take on Blanchot's analysis of death is to see it as having both a relation and nonrelation to the body, to my body. Death is incorporeal and infinitive; it is always elsewhere. It is impersonal and grounded only in itself. As such every event is like death, 'double and impersonal in its double'"
+
+
   - title: The Fourth Person Singular (Je Tu Il Elle)
     author: Narboni, Jean
     in: 
@@ -180,6 +205,7 @@ bibliography:
       - Chantal Akerman
       - subjectivity
       - noise
+      - feminism
     films:
       - Je, tu, il, elle
     notes: |
@@ -188,12 +214,31 @@ bibliography:
       - The static camera, he argues, goes against the usual pornographic conventions of using a multiplicity of shots to create a sense of excitement and of the limitless possibilities of the act
       - Akerman instead, he suggests, illustrates Lacan's ideas of two bodies being unable to become "One" (l'Un)
       - He references Kafka's metaphor of nut cracking from "Josephine the Singer, or the Mouse Folk" to describe the way the film uses seemingly mundane techniques and events in a way that invokes intrigue and discussion, so there must be something non-mundane underlying them.
-      - The part of this essay I struggle with is the concept of the "fourth person singular"
-      - TODO more
+      - The "fourth person singular" is a concept I struggle with, but here are my notes based on some deeper readings:
+        - It seems to build on concepts from Deleuze (who himself built it from a poem by Lawrence Ferlinghetti)
+        - Narboni invokes the phrase *ça montre* (it shows) in relation to Je, tu, il, elle, which is a term from Lacan by way of Freud ("Le Ça" being the French term for the Id)
+        - Lacan's *ça montre* appears to refer to something showing itself beyond the level of conscious subjectivity. In Narboni's case, this is likely tied to the cinema image itself, where what matters is less who sees than the fact that something shows itself.
+        - Narboni's Blanchot quote ("part de l'événement que son accomplissement ne peut réaliser") is from the book The Space of Literature, specifically the section "The Secret of double Death" in the chapter on "Rilke and Death's Demand" (Rilke being the poet Rainer Maria Rilke)
+          - The full quote (translated) is "There is much to suggest that the movement by which he purifies death, by taking away its random character, forced Rilke to incorporate this randomness in its essence, to close it upon its absolute indeterminacy, so that instead of being only an improper and untimely event, death becomes, at the heart of its invisibility, that which is not even an event, that which is not accomplished, yet which is there, the part of this event which its accomplishment cannot realize."
+          - Apparently Rilke desired to make death something individual, something cultivated throughout one's life, and Blanchot's argument is that personalising death so completely paradoxically makes it indeterminate. Death ceases to be a simple event that happens at a particular moment, and instead becomes something that can never be fully experienced or realised as an event.
+          - The one who dies is, in a sense, the only person for whom death matters absolutely, yet also the one who can never experience it as a completed experience. Death becomes "the part of the event which its accomplishment cannot realize".
+          - You could therefore see death as an event that is always looming or approaching, but which can never become fully present or complete itself as experience.
+          - This isn't exactly Lacan's Real, but it seems adjacent to it: something that resists presentation, symbolisation, or subjective mastery.
+        - Deleuze's conceptialisation of "fourth person" also bases some of its ideas on Blanchot's analysis of death and impersonal events.
+          - For Deleuze, singularities and events are primary, while subjects and identities emerge secondarily from them.
+          - The "fourth person" refers not to another grammatical person beyond I, you, he/she, but to an impersonal field of events existing prior to subjectivity.
+          - It is the depersonalised, pure event; not something that happens to an already-formed subject, but something from which the subject itself emerges.
+        - Nabroni also uses the term "temps du moins-que-parfait", which is a play on "pluperfect tense" (plus-que-parfait). 
+          - You could read "temps du moins-que-parfait" as a kind of "less-than-perfect tense": a temporality that cannot be fully completed or concluded.
+          -  An event that is not fully realised, but nonetheless persists or remains in some sense.
+        - Putting all of this together, Nabroni's use of "fourth person singular" seems to be about the way cinematic images can point toward an impersonal level of experience that precedes subjectivity. Rather than showing what "I" see, what "you" see, or what happens to a particular individual, the image can reveal anonymous events: a *ça montre* in which something shows itself without belonging to any stable subject. In this sense, the "fourth person singular" names the event itself, not yet organised into a person, and perhaps never fully completed within one.
+        - Particularly for Je, tu, il, elle, it seems to describe the way the film moves through the pronouns of its title without allowing any of them to become definitive. Julie is successively "I", "you", companion to "him", and lover of "her", yet the film repeatedly shifts attention away from identities and towards durations, encounters, movements and desires themselves. The "fourth person singular" would then name this impersonal level of experience.
+      - Narboni suggests that the film is cyclical, in that the first segment could follow the third
     quotes: 
       - "Sometimes [the commentary of the film] is precise, at other times it is out of sync (ahead of or behind the image), and occasionally it even contradicts what is on screen—describing what she is doing, is about to do, thought she did, or failed to do. Almost never, however, does it reveal what she is thinking or feeling"
       - "Have artists not proven themselves to be precisely those who, tirelessly, seek to inscribe [...] a sign of that invisible, impossible real, which forever eludes being written down? Like cracking nuts, only to reveal that the point [...] is to do something other than merely cracking nuts; to step outside of language while remaining within it, to move beyond the image while staying within the image; to show no fear of exhibiting oneself or putting oneself on display, all in order to subvert exhibitionism and production themselves."
-
+      - "There is much discussion at present regarding what might constitute a specifically feminine mode of writing, or how feminine jouissance informs artistic practices. Yet, it is becoming increasingly clear that this cannot be reduced to explicit, assertive content, nor to a binary opposition between a 'good' feminine space (characterized by non-violent relations) and a 'bad' masculine space (defined by power dynamics). Furthermore, it has nothing to do with the foolish dichotomy that separates spontaneity or lived experience (supposedly inherent to women) from discourse or theory (supposedly the domain of men)."
+  
   - title: Personal pronouncements in I...You...He...She and Portrait of a Young Girl at the End of the 60s in Brussels
     author: Turim, Maureen
     in: identity-memory
