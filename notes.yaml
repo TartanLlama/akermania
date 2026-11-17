@@ -10,8 +10,7 @@ bibliography:
     tags: 
       - Chantal Akerman
       - Marcel Proust
-    notes:
-    quotes:
+    notes: |
       - "She did not reread [The Prisoner] before writing the screenplay, but later went back to fill in details, so that the film floats free of the novel while also being dense with references."
     
   - title: "The Captive: Frédéric Bonnaud talks to Chantal Akerman"
@@ -23,8 +22,10 @@ bibliography:
     tags: 
       - Chantal Akerman
       - interview
-    quotes:
-      - I thought that literary works should not be adapted to film, that music should not be used, that cutaways and shot/counter-shots should not be used — these kinds of prohibitions. I was radical, undoubtedly too much so, but I needed to be in order to define myself, form myself as a filmmaker.
+    notes: |
+      - "I thought that literary works should not be adapted to film, that music should not be used, that cutaways and shot/counter-shots should not be used — these kinds of prohibitions. I was radical, undoubtedly too much so, but I needed to be in order to define myself, form myself as a filmmaker."
+        - Interesting to have Akerman say that she was more 'radical' earlier in her career than later
+        - I would not necessarily agree with this, probably a better word is 'dogmatic'
 
   - title: "Chantal Akerman: Filmmaker and Philosopher"
     author: Novakovic, Andreja
@@ -47,8 +48,9 @@ bibliography:
     publisher: Duke University Press
     tags: 
       - Chantal Akerman
-    quotes:
+    notes: |
       - "[News from Home] questions the notion of presence, of an evident, unified source for an utterance, at the very moment at which difference and distance seem abolished: the moment of voicing. Addresser and addressee are collapsed, disavowing an essential identity for either."
+        - This problematises the notion of the author and subjectivity in the film
 
   - title: "Chantal Akerman: Afterlives"
     ref: afterlives
@@ -165,9 +167,8 @@ bibliography:
       - Franz Kafka
       - unread
     notes: |
-      - I have not read this yet, but the essay "The Fourth Person Singular (Je Tu Il Elle)" by Jean Narboni references it and I loved the quote he uses from it.
-    quotes:
-      - "To crack a nut is truly no feat, so no one would ever dare to collect an audience in order to entertain it with nut-cracking. But if all the same one does do that and succeeds in entertaining the public, then it cannot be a matter of simple nut-cracking. Or it is a matter of nut-cracking, but it turns out that we have over-looked the art of cracking nuts because we were too skilled in it and that this newcomer to it first shows us its real nature, even finding it useful in making his effects to be rather less expert in nut-cracking than most of us."
+      - I have not read this yet, but the essay "The Fourth Person Singular (Je Tu Il Elle)" by Jean Narboni references it and I loved the quote he uses from it:
+        - "To crack a nut is truly no feat, so no one would ever dare to collect an audience in order to entertain it with nut-cracking. But if all the same one does do that and succeeds in entertaining the public, then it cannot be a matter of simple nut-cracking. Or it is a matter of nut-cracking, but it turns out that we have over-looked the art of cracking nuts because we were too skilled in it and that this newcomer to it first shows us its real nature, even finding it useful in making his effects to be rather less expert in nut-cracking than most of us."
 
   - title: The Eyes of the Fourth Person Singular
     author: Bradley, Joff
@@ -186,11 +187,12 @@ bibliography:
       - The infinitive, subjectless, incorporeal events seem to capture the basis of Deleuze's fourth person singular, which then further includes the ontological implications of such events
       - It seems important that this is not "non-individual", but rather "pre-individual", because these pure events are what constructs the individual
       - It captures the "splendor of the impersonal they", related to the Other, I would imagine
-    quotes:
       - "The fourth person singular sees all and understands nothing."
-      - "Although no one speaks the fourth person singular, it nevertheless subsists in all that is said. It is the murmur behind all utterances."
+      - The fourth person singular cannot be a grammatical construct, and must remain a philosophical one:
+        - "Although no one speaks the fourth person singular, it nevertheless subsists in all that is said. It is the murmur behind all utterances."
       - "Deleuze looked to forge a philosophy to dislodge and decentre the 'I', or speaking subject."
       - "Subjectivity is taken as never pre-existent but always produced."
+        - The producer is that pure event, the fourth person singular
       - "Deleuze's take on Blanchot's analysis of death is to see it as having both a relation and nonrelation to the body, to my body. Death is incorporeal and infinitive; it is always elsewhere. It is impersonal and grounded only in itself. As such every event is like death, 'double and impersonal in its double'"
 
 
@@ -214,6 +216,7 @@ bibliography:
       - The static camera, he argues, goes against the usual pornographic conventions of using a multiplicity of shots to create a sense of excitement and of the limitless possibilities of the act
       - Akerman instead, he suggests, illustrates Lacan's ideas of two bodies being unable to become "One" (l'Un)
       - He references Kafka's metaphor of nut cracking from "Josephine the Singer, or the Mouse Folk" to describe the way the film uses seemingly mundane techniques and events in a way that invokes intrigue and discussion, so there must be something non-mundane underlying them.
+        - "Have artists not proven themselves to be precisely those who, tirelessly, seek to inscribe [...] a sign of that invisible, impossible real, which forever eludes being written down? Like cracking nuts, only to reveal that the point [...] is to do something other than merely cracking nuts; to step outside of language while remaining within it, to move beyond the image while staying within the image; to show no fear of exhibiting oneself or putting oneself on display, all in order to subvert exhibitionism and production themselves."
       - The "fourth person singular" is a concept I struggle with, but here are my notes based on some deeper readings:
         - It seems to build on concepts from Deleuze (who himself built it from a poem by Lawrence Ferlinghetti)
         - Narboni invokes the phrase *ça montre* (it shows) in relation to Je, tu, il, elle, which is a term from Lacan by way of Freud ("Le Ça" being the French term for the Id)
@@ -234,10 +237,9 @@ bibliography:
         - Putting all of this together, Nabroni's use of "fourth person singular" seems to be about the way cinematic images can point toward an impersonal level of experience that precedes subjectivity. Rather than showing what "I" see, what "you" see, or what happens to a particular individual, the image can reveal anonymous events: a *ça montre* in which something shows itself without belonging to any stable subject. In this sense, the "fourth person singular" names the event itself, not yet organised into a person, and perhaps never fully completed within one.
         - Particularly for Je, tu, il, elle, it seems to describe the way the film moves through the pronouns of its title without allowing any of them to become definitive. Julie is successively "I", "you", companion to "him", and lover of "her", yet the film repeatedly shifts attention away from identities and towards durations, encounters, movements and desires themselves. The "fourth person singular" would then name this impersonal level of experience.
       - Narboni suggests that the film is cyclical, in that the first segment could follow the third
-    quotes: 
       - "Sometimes [the commentary of the film] is precise, at other times it is out of sync (ahead of or behind the image), and occasionally it even contradicts what is on screen—describing what she is doing, is about to do, thought she did, or failed to do. Almost never, however, does it reveal what she is thinking or feeling"
-      - "Have artists not proven themselves to be precisely those who, tirelessly, seek to inscribe [...] a sign of that invisible, impossible real, which forever eludes being written down? Like cracking nuts, only to reveal that the point [...] is to do something other than merely cracking nuts; to step outside of language while remaining within it, to move beyond the image while staying within the image; to show no fear of exhibiting oneself or putting oneself on display, all in order to subvert exhibitionism and production themselves."
       - "There is much discussion at present regarding what might constitute a specifically feminine mode of writing, or how feminine jouissance informs artistic practices. Yet, it is becoming increasingly clear that this cannot be reduced to explicit, assertive content, nor to a binary opposition between a 'good' feminine space (characterized by non-violent relations) and a 'bad' masculine space (defined by power dynamics). Furthermore, it has nothing to do with the foolish dichotomy that separates spontaneity or lived experience (supposedly inherent to women) from discourse or theory (supposedly the domain of men)."
+        - This echos what Turim writes in her essay on the film, about how the film has a troubled and non-binary relationship to gender
   
   - title: "Women at the Keyhole: Feminism and Women's Cinema"
     author: Mayne, Judith
@@ -267,17 +269,26 @@ bibliography:
           - Oral
         - I certainly see how the third part mirrors the eating sequence that directly preceeds the sex scene, but the first two parts seem less clearly connected to me
         - Regardless, it's an interesting observation. I guess one could see the rolling around, the "friction" as the friction that "Julie" feels against her place in life and her own body in the first segment. I would hardly describe the second act as like sensuous kissing though.
-      - I really like the way she describes the de-subjectification of the sex scene, how there is no "marked place for the spectator".
+      - "Lesbian representation highlights contradiction in particularly strong ways, for lesbianism is both lure and threat for patriarchal culture as well as for feminism, and it challenges a model of signification in which masculinity and activity, femininity and passivity, are always symmetrically balanced."
+        - Points to the rejection of binaries in sexuality and gender in their political dimension
+      - "In [...] Je tu il elle, heterosexual and lesbian attachment are baldly juxtaposed in relation to an 'I' whose speaking self is somewhat detached from her corporeal self, a bodily presence marked by the intertwining activities of eating and writing."
+        - Or in other words, the film is about the tension between the body and the mind, and how desire is expressed through a sexuality that is itself detached from strict conceptions
+      - I really like the way she describes the de-subjectification of the sex scene, how there is no "marked place for the spectator":
+        - "However, throughout all three of these shots, little separates the initiator from the recipient; little, that is, isolates active subject from passive object. The representation of the lovemaking departs absolutely from the codes of pornography, so that there is no cutting from 'subject' to 'object,' no isolation of a breast or genitalia as the fetishized object, no simulation of sexual frenzy. If neither Akerman nor the lover can be situated neatly within the pole of subject or object, in other words, neither is there a clearly marked place for the spectator."
       - Mayne also touches on the anti-pornographic presentation of the scene.
       - She suggests that the way the trucker looks at the camera after coming is a way of acknowledging that Akerman the actor and Akerman the director are one and the same. She goes on to discuss the dual nature of Akerman as object and Akerman as subject.
       - She touches on the film's preoccupation with internal vs external spaces, and thresholds
         - Clearly the room from the first section is an internal (interior) space, one that Akerman/Julie constructs
         - Mayne suggests that the truck has elements of interiority, such as the connection to the first part with Julie sleeping there
         - But the truck is less clear, as it is unclear what is "part of Akerman's spoken reality [...] and what is more properly associated with the realm of a separate, public sphere"  
+        - "She takes off her clothes, submitting her body to the same process of unmasking as the room."
       - The ideas about control over a space is interesting: how Akerman/Julie shifts between different amounts of authorship/control over the physical places she inhabits
+        - "Akerman is defined both as contained by—and occasionally even imprisoned by—the space that surrounds her, and as a powerful controller of that space."
         - Mayne argues that "in the first [part] Akerman seems more contained by her surroundings, and in the last she exercises more control over them"
         - I disagree with this. I think that in the first part, she is in control of her space is as much as she reconfigures it to represent her interiority. In the last part, she is a guest, and only for some time (as she explicitly says she will be leaving in the morning).
         - Mayne thinks that the second part is somewhere in-between, which I'm also not sure I agree with, as she is in a very transitory space that is not of her design
+        - She also discusses the primary female gendering of the space in the first segment, by way of Lacan's symbolic order:
+          - "[the film evokes] a female world that exists prior to or outside the realm of the symbolic order, an order determined by the regulation of the body and the simultaneous economy of the family and the word"
       - Pushes against the conception that this film represents heterosexuality as a poor substitute for lesbianism, and doesn't fall into the trap of "heterosexuality = bad, lesbian = good"
         - She rather sees the film as tracing a process of departure, isolation, and return as a trajectory of desire
         - Of course, coupled with other readings of the film as cyclical, this would suggest that desire has a cyclical nature
@@ -288,24 +299,17 @@ bibliography:
         - The earliest bond with a mother is oral (feeding), which connects to the film's heavy use of food
         - Of course, we know that Akerman is deeply connected to her mother
         - Instead of viewing this "regressive" oral bond as a sickness, Akerman flips it into a source of female power.
+        - "This affirmation of female subjectivity in the cinema occurs in several ways: through the connections between different forms of orality (eating, speech, sex), and between the literal and the figurative; through a movement back and forth from the positions of spectator to actor to writer; and through a series of resonances whereby the desire of the woman is linked to those of the child and the adult, to the desire to see and to be seen, to the desire to speak and to write."
       - She notes that she has said the film does not exactly fit as a "lesbian film", but also acknowledges the general difficulty in naming the film, in spite of the film being centrally concerned with naming/identity
+        - "Je tu il elle and Ticket of No Return are less concerned with affirmative representations of lesbian experience than with explorations of the simultaneous ambivalence and pressure of lesbianism with regard to the polarities of agency and gender."
       - On the identity behind the pronoun "tu", Mayne says that virtually all of the subjects in the film occupy it at some point, but notes that in the first section, there is only one literal reference to this pronoun:
         - "When I lifted my head suddenly, there were people walking in the street. I still waited for them to leave or for something to happen. For me to believe in God or for you [tu] to send me a pair of gloves so I could go out in the cold"
       - She has a very interesting note on the fact that "tu" is also the past participle of the verb "se taire" (to make oneself silent):
         - "The eighth or ninth day, I started the second letter over again, and I ate a lot of powdered sugar for eight pages. And I crossed out...marked out...a few lines remained. I stopped eating and kept quiet [je me suis tu]."
+      - "one could hardly find a contemporary woman's film more saturated with authorial signature than Je tu il elle"
     films:
       - Je, tu, il, elle
-    quotes:
-      - "Lesbian representation highlights contradiction in particularly strong ways, for lesbianism is both lure and threat for patriarchal culture as well as for feminism, and it challenges a model of signification in which masculinity and activity, femininity and passivity, are always symmetrically balanced."
-      - "In [...] Je tu il elle, heterosexual and lesbian attachment are baldly juxtaposed in relation to an 'I' whose speaking self is somewhat detached from her corporeal self, a bodily presence marked by the intertwining activities of eating and writing. "
-      - "Je tu il elle and Ticket of No Return are less concerned with affirmative representations of lesbian experience than with explorations of the simultaneous ambivalence and pressure of lesbianism with regard to the polarities of agency and gender."
-      - "She takes off her clothes, submitting her body to the same process of unmasking as the room."
-      - "However, throughout all three of these shots, little separates the initiator from the recipient; little, that is, isolates active subject from passive object. The representation of the lovemaking departs absolutely from the codes of pornography, so that there is no cutting from 'subject' to 'object,' no isolation of a breast or genitalia as the fetishized object, no simulation of sexual frenzy. If neither Akerman nor the lover can be situated neatly within the pole of subject or object, in other words, neither is there a clearly marked place for the spectator."
-      - "one could hardly find a contemporary woman's film more saturated with authorial signature than Je tu il elle"
-      - "Akerman is defined both as contained by—and occasionally even imprisoned by—the space that surrounds her, and as a powerful controller of that space."
-      - "This affirmation of female subjectivity in the cinema occurs in several ways: through the connections between different forms of orality (eating, speech, sex), and between the literal and the figurative; through a movement back and forth from the positions of spectator to actor to writer; and through a series of resonances whereby the desire of the woman is linked to those of the child and the adult, to the desire to see and to be seen, to the desire to speak and to write."
-      - "[the film evokes] a female world that exists prior to or outside the realm of the symbolic order, an order determined by the regulation of the body and the simultaneous economy of the family and the word"
-
+ 
   - title: "The Birth of a New Avant-Garde: La Caméra-Stylo"
     author: Astruc, Alexandre
     in: 
@@ -324,11 +328,16 @@ bibliography:
       - This is a very concise and clear essay, very worth reading in its entirety
       - Astruc gives the film *L'Espoir* (1939) as an example of a film in which the cinematic language is exactly equivalent of literary language, suggesting that it may be the first film to do so
       - Interestingly, he speaks with some disdain of "poetic documentaries" and Surrealist films and the suggestion that these are the only way to break free of regular commercial filmmaking
-    quotes: 
       - "[...] I would like to call this new age of cinema the age of caméra-stylo (camera-pen). This metaphor has a very precise sense. By it I mean that the cinema will gradually break free from the tyranny of what is visual, from the image for its own sake, from the immediate and concrete demands of the narrative, to become a means of writing just as flexible and subtle as written language."
       - "It must be understood that up to now the cinema has been nothing more than a show. This is due to basic fact that all films are projected in an auditorium. But with the development of 16mm and television, the day is not far off when everyone will possess a projector, will go to the local bookstore and hire films written on any subject, of any form, from literary criticism and novels to mathematics, history, and general science. From that moment on, it will no longer be possible to speak cinema. There will be several cinemas just as today there are several literatures, for the cinema, like literature, is not so much a particular art as a language which can express any sphere of thought."
+        - It is interesting to consider the ways in which this has and has not come to pass in the more than 70 years since this was written.
+        - It is kind of true that everyone possesses a projector of sorts, and that we have access to a wide variety of films on any subject, and also that there are many different cinemas and cinematic languages
+        - But it is also true that the commercial film industry is still very much dominated by a small number of studios and a very particular style of filmmaking
       - "Every film, because its primary function is to move, i.e. to take place in time, is a theorem. It is a series of images which, from one end to the other, have an inexorable logic (or better even, a dialectic) of their own."
-      - "Scriptwriters who adapt Honoré de Balzac or Fyodor Dostoevsky excuse the idiotic transformations they impose on the works from which they construct their scenarios by pleading that the cinema is incapable of rendering every psychological or metaphysical overtone. In their hands, Balzac becomes a collection of engravings in which fashion has the most important place, and Dostoevsky suddenly begins to resemble the novels of Joseph Kessel, with Russian-style drinking-bouts in night-clubs and troika races in the snow. Well, the only cause of these compressions is lazirss and lack Of imagination. The cinema of today is capable of expressing any kind of reality."
+        - I enjoy this definition, and the note of taking place "in time" is very relevant here, since time was so central to her films, and especially in the way they deviate from the norm and have their own "inexorable logic"
+      - "Scriptwriters who adapt Honoré de Balzac or Fyodor Dostoevsky excuse the idiotic transformations they impose on the works from which they construct their scenarios by pleading that the cinema is incapable of rendering every psychological or metaphysical overtone. In their hands, Balzac becomes a collection of engravings in which fashion has the most important place, and Dostoevsky suddenly begins to resemble the novels of Joseph Kessel, with Russian-style drinking-bouts in night-clubs and troika races in the snow. Well, the only cause of these compressions is laziness and lack of imagination. The cinema of today is capable of expressing any kind of reality."
+        - Akerman was planning to adapt Dostoyevsky's *The Idiot* around the time that she died, so it's interesting to consider how she would have interacted with this assertion
+        - Given her adaptations of Proust and Conrad, I don't believe that it would have fallen into the traps that Astruc describes here, as she was very much interested in what truth lay beneath the surface of the text, rather than a simple visual representation of the text 
 
   - title: Notes on Cinematography
     author: Bresson, Robert
@@ -363,32 +372,31 @@ bibliography:
         - However, they both align on the idea that the actor should have some secret that is not revealed to the audience, and may not even be fully known to the actor themselves
       - "What is for the eye must not duplicate what is for the ear"
         - This is a great quote for Je, te, il, elle, and the unsynced voiceover in the first section
-      - The whole book is filled with gems; Bresson had quite the talent for stripped down writing as well as images
-    quotes:
-      - "Cinematograph is a writing with images in movement and with sounds."
-      - "An actor in cinematography might as well be in a foreign country. He does not speak its language"
-      - "An image must be transformed by contact with other images as is a color by contact with other colors. A blue is not the same blue beside a green, a yellow, a red. No art without transformation."
-      - "The ejaculatory force of the eye"
-      - "Be sure of having used to the full all that is communicated by immobility and silence."
-      - "Don't run after poetry. It penetrates unaided through the joins (ellipses)."
-      - "Neither the director nor the scenario-writer. Forget you are making a film."
-      - "If, on the screen, the mechanism disappears andthe phrases you have made them say, the gestures you have made them make, have become one with your models, with your film, with you — then a miracle."
-      - "Images and sounds like people who make acquaintance on a journey and afterwards cannot separate."
-      - "Nothing too much, nothing deficient."
-      - "Music takes up all the room and gives no increased value to the image to which it is added."
-      - "A small subject can provide the pretext for many profound combinations. Avoid subjects that are too vast or too remote, in which nothing warns you when you are going astray. Or else take from them only what can be mingled with your life and belongs to your experience."
-      - "A sound must never come to the rescue of an image, nor an image to the rescue of a sound."
-      - "Gestures and words cannot form the substance of a film as they form the substance of a stage play. But the substance of a film can be that...thing or those things which provoke the gestures and words and which are produced in some obscure way in your models. Your camera sees them and records them. So one escapes from the photographic reproduction of actors performing a play; and cinematography, that new writing, becomes at the same time a method of discovery."
-      - "Because you do not have to imitate, like painters, sculptors, novelists, the appearance of persons and objects (machines do that for you), your creation or invention confines itself to the ties you knot between the various bits of reality caught. There is also the choice of the bits. Your flair decides."
-      - "Two simplicities. The bad: simplicity as starting-point, sought too soon. The good: simplicity as end-product, recompense for years of effort."
-      - "Music. It isolates your film from the life of your film (musical delectation). It is a powerful modifier and even destroyer of the real, like alcohol or dope."
-      - "Displaying everything condemns CINEMA to cliché, obliges it to display things as everyone is in the habit of seeing them. Failing which, they would appear false or sham."
-      - "One does not create by adding, but by taking away."
-      - "It is not a matter of acting 'simple' or of acting 'inward' but of not acting at all."
-      - "Your camera catches not only physical movements that are inapprehensible by pencil, brush or pen, but also certain states of soul recognizable by indices which it alone can reveal."
-      - "Accustom the public to divining the whole of which they are given only a part. Make people diviners. Make them desire it."
-      - "Shudderings of images awakening."
-      - "Ideas gathered from reading will always be bookish ideas. Go to the persons and objects directly."
+      - The whole book is filled with gems; Bresson had quite the talent for stripped down writing as well as images. Here are some of my other choice quotes:
+        - "Cinematograph is a writing with images in movement and with sounds."
+        - "An actor in cinematography might as well be in a foreign country. He does not speak its language"
+        - "An image must be transformed by contact with other images as is a color by contact with other colors. A blue is not the same blue beside a green, a yellow, a red. No art without transformation."
+        - "The ejaculatory force of the eye"
+        - "Be sure of having used to the full all that is communicated by immobility and silence."
+        - "Don't run after poetry. It penetrates unaided through the joins (ellipses)."
+        - "Neither the director nor the scenario-writer. Forget you are making a film."
+        - "If, on the screen, the mechanism disappears andthe phrases you have made them say, the gestures you have made them make, have become one with your models, with your film, with you — then a miracle."
+        - "Images and sounds like people who make acquaintance on a journey and afterwards cannot separate."
+        - "Nothing too much, nothing deficient."
+        - "Music takes up all the room and gives no increased value to the image to which it is added."
+        - "A small subject can provide the pretext for many profound combinations. Avoid subjects that are too vast or too remote, in which nothing warns you when you are going astray. Or else take from them only what can be mingled with your life and belongs to your experience."
+        - "A sound must never come to the rescue of an image, nor an image to the rescue of a sound."
+        - "Gestures and words cannot form the substance of a film as they form the substance of a stage play. But the substance of a film can be that...thing or those things which provoke the gestures and words and which are produced in some obscure way in your models. Your camera sees them and records them. So one escapes from the photographic reproduction of actors performing a play; and cinematography, that new writing, becomes at the same time a method of discovery."
+        - "Because you do not have to imitate, like painters, sculptors, novelists, the appearance of persons and objects (machines do that for you), your creation or invention confines itself to the ties you knot between the various bits of reality caught. There is also the choice of the bits. Your flair decides."
+        - "Two simplicities. The bad: simplicity as starting-point, sought too soon. The good: simplicity as end-product, recompense for years of effort."
+        - "Music. It isolates your film from the life of your film (musical delectation). It is a powerful modifier and even destroyer of the real, like alcohol or dope."
+        - "Displaying everything condemns CINEMA to cliché, obliges it to display things as everyone is in the habit of seeing them. Failing which, they would appear false or sham."
+        - "One does not create by adding, but by taking away."
+        - "It is not a matter of acting 'simple' or of acting 'inward' but of not acting at all."
+        - "Your camera catches not only physical movements that are inapprehensible by pencil, brush or pen, but also certain states of soul recognizable by indices which it alone can reveal."
+        - "Accustom the public to divining the whole of which they are given only a part. Make people diviners. Make them desire it."
+        - "Shudderings of images awakening."
+        - "Ideas gathered from reading will always be bookish ideas. Go to the persons and objects directly."
 
   - title: Personal pronouncements in I...You...He...She and Portrait of a Young Girl at the End of the 60s in Brussels
     author: Turim, Maureen
@@ -408,17 +416,24 @@ bibliography:
     notes: |
       - Uses the term "personal pronouncements" to describe the fictions that Akerman creates in these two films, because it "conjoins autobiography and enunciation to point towards a revelation of the intimate"
       - Apparently "personal pronouncements" was the original title of Je, tu, il, elle in the US release
-      - The way that this says all personal filmmaking borders on autobiography is very true to Akerman's work in particular, both through her presence as an actor, and substitution in many of her films (or substitutions for her mother)
-      - Akerman's self suffuses the film even though she seemingly covers it in a veneer of fiction, and this is achieved through several techniques of artificiality and abstraction that create further links between Akerman the director and Akerman/Julie
+      - The way that this says all personal filmmaking borders on autobiography is very true to Akerman's work in particular, both through her presence as an actor, and substitution in many of her films (or substitutions for her mother):
+        - "In some sense, all writing and personal filmmaking border on autobiography, even when placed in the third person, or filmed without direct reference to the filmmaker's body or life"
+      - Akerman's self suffuses the film even though she seemingly covers it in a veneer of fiction, and this is achieved through several techniques of artificiality and abstraction that create further links between Akerman the director and Akerman/Julie        
+        - "even as the self is disguised by these ruses of language, the body of the author dominates the images"
       - Invokes the psychoanalytic concept of "acting out" (mettre en acte, ageren), indicating "actions taken by a subject in the grip of [their] unconscious wishes and fantasies"
       - The way the essay discusses the alternation between the textual character's voice and the authorial voice reminds me of the way Margulies describes oscillation between literal and figurative registers
+        - "the revelation of her character's unconscious desires is shadowed by the hint of a revelation of an authorial, personal, autobiographical unconscious, as the space between fictive character and authorial voice is alternatively collapsed and expanded in the film's unfolding"
+      - "Julie methodically pursues communication in the form of a letter-writing destined always to be rewritten and never to be sent. The only revelation of self she seems capable of committing consists of the merely physical."
+        - Or in other words, she is unable to express her interiority through language, and instead expresses it through her body and the space she inhabits
       - Highlights Judith Mayne's assertion that the reading of the film as moving from isolation to "hesitant heterosexuality" to "triumphant lesbianism" is overly simplistic, and that the film denies this by its non-linear structure
+        - "the film never seems to address a particular audience, never employs codes meant to offer it a privileged identification; this may account for Mayne's hesitation in calling the film a 'lesbian film'"
       - She also highlights Mayne's allusion to the fact that voice and image in the first section are not in sync
         - For example, Julie says she paints the furniture blue the first day, then green the second, but we never see the act of painting, nor the colours
         - Turim says that these establish a "pattern of mutability"
       - Turim makes the somewhat tenuous connection between the blue and green of the non-painting to the scene in Il deserto rosso, where Vitti is going through a shop painted with large blocks of colours
         - I think it's unlikely that it's a direct reference, but the connection to Il deserto rosso seems well-made, as that film also considers itself with spaces reflecting the psychology of the characters, and the use of colour to reflect interiority
       - The essay captures the difficulty of expressing one's interiority, and of making it concrete
+        - "[the first segment offers] a staging of a difficulty with writing, a hesitation with a commitment of pencil to paper, and of self to permanent record of an enunciation"
       - The verfremdungseffekt is invoked to heighten the feeling that this is a performance, and to problematise the notion of authorship and subjectivity in the film
       - Similarly to Mayne, Turim takes issue with a simplistic reading of the film as a clear linear progression of the Je through the Il, to the Elle:
         - "this bare-bones structural version of the film is a stripping of it down to its elemental and symbolic pronomial quest, but it immediately invites a symbolic interpretation, reading into the image, monologues, dialogues, and sounds an investment that carries its own presuppositions"
@@ -434,6 +449,8 @@ bibliography:
         - Similar to the way Mayne discusses orality
       - Compares the film to Godard, Warhol, Bresson, Antonioni, Deren, and Resnais
       - She notes how the sex sequence breaks the usual model of lesbian relationships as "always emotionally articulate", and instead presents inarticulate bodies and desire, thus breaking with traditional modes by which lesbianism is put on display for a third party audience, potentially male
+        - "Only when they arrive at orality, at the former lover's embrace of Julie's labia, does the segment move from a quasi-wrestling match to a defined sex act, but, even so, the usual codes of sexual portrayals in filmic images are so avoided that viewers are left with a singular depiction of sex. This singularity is less that of women, of lesbian love, than that of a style of filmic writing that traces the awkward through to its own poetics, that refuses any romanticism in the flirtation with the physical, that troubles one's tactile imagination, one's imaginary and identificatory insertion into touch-portrayed as touch-felt."
+        - The above quote also reflect the anti-pornographic presentation of the sex scene, similar to discussions in the Mayne and Narboni essays
       - "Julie arrives unnanounced because a letter could not be written and could not be sent; the body arrrives at the destination of the errant letter"
         - Derrida's *destinerrance*?
       - The most interesting part of this essay, I feel, is the musings on the troublement of gender in the film:
@@ -444,21 +461,13 @@ bibliography:
         - "the glass door to Julie's apartment in the first segment in which she looks at herself, only to realise it is a transparency through which she can be seen. Finally, it becomes an opened door through which she leaves, and it remains open[...]. One could align this mirror via Lacan's theorisation of the mirror stage with a throubled passage through primary narcissism."
         - She notes Narboni's term "mirror-door-windows"
         - She discusses how such framings are drawn on a history of pathologising homosexuality as a deviant form of sexuality
+        - "The goal for the long term seems to be to avoid fulfilling a traditional analyst's sense of who one is, in order to challenge the theory to accommodate the shifting politics of newly possible identities, ones that can only emerge as a culture becomes ready to let them be and develop"
       - On the subject of "Portrait of a Young Girl", Turim draws on political and historical readings of Lacan's seminars:
         - "Lacan draws connections between elements borrowed from existential philosophies in his thought and the events of May 1968"
         - She notes that Akerman has Michelle quote Kierkegaard
         - These thoughts seem to trail off somewhat, more just pointing at the fact that political context is reflected in the film, rather than making any strong claims about the political nature of the film or the impacts on the psyche of the characters
       - Turim finishes by attempting to place Akerman in a "larger history of art" by comparing her with the work of Marina Abramović, and Marie Audré
       - I found this essay very dense in its references, and I'm not sure it has more to say than the sum of those references, but it is worth a read for the number of rabbit holes that it opens up
-    quotes:
-      - "In some sense, all writing and personal filmmaking border on autobiography, even when placed in the third person, or filmed without direct reference to the filmmaker's body or life"
-      - "even as the self is disguised by these ruses of language, the body of the author dominates the images"
-      - "the revelation of her character's unconscious desires is shadowed by the hint of a revelation of an authorial, personal, autobiographical unconscious, as the space between fictive character and authorial voice is alternatively collapsed and expanded in the film's unfolding"
-      - "[the first segment offers] a staging of a difficulty with writing, a hesitation with a commitment of pencil to paper, and of self to permanent record of an enunciation"
-      - "the film never seems to address a particular audience, never employs codes meant to offer it a privileged identification; this may account for Mayne's hesitation in calling the film a 'lesbian film'"
-      - "Julie methodically pursues communication in the form of a letter-writing destined always to be rewritten and never to be sent. The only revelation of self she seems capable of committing consists of the merely physical."
-      - "Only when they arrive at orality, at the former lover's embrace of Julie's labia, does the segment move from a quasi-wrestling match to a defined sex act, but, even so, the usual codes of sexual portrayals in filmic images are so avoided that viewers are left with a singular depiction of sex. This singularity is less that of women, of lesbian love, than that of a style of filmic writing that traces the awkward through to its own poetics, that refuses any romanticism in the flirtation with the physical, that troubles one's tactile imagination, one's imaginary and identificatory insertion into touch-portrayed as touch-felt."
-      - "The goal for the long term seems to be to avoid fulfilling a traditional analyst's sense of who one is, in order to challenge the theory to accommodate the shifting politics of newly possible identities, ones that can only emerge as a culture becomes ready to let them be and develop"
 
   - title: What's beneath her smile? Subjectivity and desire in Germaine Dulac's The Smiling Madame Beudet and Chantal Akerman's Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
     author: Flitterman-Lewis, Sandy
@@ -475,23 +484,23 @@ bibliography:
     films:
       - Jeanne Dielman
     notes: |
-      - Sylvain as the representative figure of patriarchy—I agree with this idea in that he is part of the structure that holds her captive so to speak, but he does not hold hierarchical power over her as an active oppressor. You could read this as a form of oppression-from-beneath, or a comment on the quieter ways in which patriarchy operates, so I think there's some interesting nuance there that isn't looked at in this essay
+      - "The teenaged son Sylvain [...] functions as the masculine presence that defines both the terms and the limits of a world that Jeanne has doggedly tried to make her own"
+        - Sylvain as the representative figure of patriarchy—I agree with this idea in that he is part of the structure that holds her captive so to speak, but he does not hold hierarchical power over her as an active oppressor. You could read this as a form of oppression-from-beneath, or a comment on the quieter ways in which patriarchy operates, so I think there's some interesting nuance there that isn't looked at in this essay
       - The precision of the details of the title giving the illusion of a heightened objectivity, without actually giving us any sense of her identity
+
       - The notion of "penetrating" the bedroom, which the camera is not allowed to do right until the penultimate scene
       - The distance and objectivity used to record the violence being the same as the usual household routine
       - How to define elusive interiority
-      - Rather than the formal techniques employed representing a sense of interiority, the camera is held at a distance, and the interiority is represented by the performance and text
+      - Rather than the formal techniques employed representing a sense of interiority, the camera is held at a distance, and the interiority is represented by the performance and text:
+        - "the emphasis on depicting unconscious processes, as opposed to evoking the unconscious through organised structures of the gaze"
       - Denying a "point-of-view" perspective and instead being an observer
       - Subjectivity constructed through sustained duration that invite's the viewer's speculation about Jeanne's thoughts
       - Says that Jeanne's "desires escape articulation", which I think is connected to Lacanian ideas of desire and lack, l'objet petit a, etc.
       - Discusses the absolute truth of an event, how the film conceptualises this as impossible, and that it places the viewer in the centre of meaning-making rather than being authoritative
       - This last point also reminds me of Toshio Matsumoto's ideas about subjectivity and involving the viewer in meaning-making to push for political engagement
       - Posits that the film's action forces the viewer to contemplate female sexuality as a key to unlocking the film's textual meaning: female pleasure is made into an interpretive framework
+        - "every single reading of the film's action unavoidably hinges on some dimension of the feminine, because each one of these complex narrative moments is strategically, if subtly, shaped by questions of female sexuality"
       - Uses the term "knot of speculation" to describe the way the film's action is structured, which I think is a very apt description
-    quotes:
-      - "The teenaged son Sylvain [...] functions as the masculine presence that defines both the terms and the limits of a world that Jeanne has doggedly tried to make her own"
-      - "the emphasis on depicting unconscious processes, as opposed to evoking the unconscious through organised structures of the gaze"
-      - "every single reading of the film's action unavoidably hinges on some dimension of the feminine, because each one of these complex narrative moments is strategically, if subtly, shaped by questions of female sexuality"
 
   - title: "The feminine side of New York: travelogue, autobiography and architecture in News from Home"
     author: Barker, Jennifer M
@@ -516,22 +525,24 @@ bibliography:
       - gender
     notes: |
       - Reading about the World Trade Center in things from before 9/11 is weird
+      - "[Akerman] is present only in the sense that she occupies the same spaces in which her subjects live and work"
       - Ground-level observation of a city is very different from the lofty viewpoint of a skyscraper, not like a "voyeur-god"
+        - "The camera never tilts up to catch a glimpse of skyscrapers disappearing into the clouds above, but remains firmly grounded; this is a landscape of subway tunnels, of alleys, of the hidden places of the city, places just outside the margins of visibility and legibility."
       - Akerman focuses on the minor dwelling spaces rather than major landmarks
       - The idea of bodies and cities having a reciprocal relationship of construction and writing-on is very interesting
       - Takes ideas from de Certeau's "Walking in the City" and applies them to Akerman's work
-      - Walking in the city as an analogue for the act of speaking is also very interesting
+      - She draws on this quote from Certeau, which I find fascinating:
+        - "The act of walking is to the urban system what the speech act is to language or to the statements uttered. At the most elementary level, it has a triple 'enunciative' function: it is a process of appropriation of the topographical system on the part of the pedestrian (just as the speaker appropriates and takes on the language); it is a spatial acting-out of the place (just as the speech act is an acoustic acting-out of language); and it implies relations among differentiated positions, that is, among pragmatic 'contracts' in the form of movements (just as verbal enunciation is an 'allocution,' 'posits another opposite' the speaker and puts contracts between interlocutors into action). It thus seems possible to give a preliminary definition of walking as a space of enunciation."
+        - Akerman is very concerned with communication, or blockages in communication, and this posits that her interest in cities and the relationship between them and the body/mind is also a furtherance of this concern
+      - "By constructing her own autobiography through the reading of her mother's words, by thus paralleling their autobiographical acts, Akerman demonstrates that subjectivity is a function of connections to others, is constructed within a social context, that it arises and articulates itself only through its relation to others."
       - Addresses Giuliana Burno's idea of "the touristic gaze"
       - Defines the architect-subject as generally male and the pedestrian-subject as generally female
+        - "The construction of the self becomes a spatial issue; gender relations are written onto the body of the city, shaping it and shaped by it."
       - Identifies the spaces hidden at the high vantage point as female, by way of the female gendering of "chora" (via Elizabeth Grosz); I'm not sure I totally buy this, but it's something to ponder
       - I love this essay, it's so good
     films:
       - News from Home
-    quotes:
-      - "[Akerman] is present only in the sense that she occupies the same spaces in which her subjects live and work"
-      - "The camera never tilts up to catch a glimpse of skyscrapers disappearing into the clouds above, but remains firmly grounded; this is a landscape of subway tunnels, of alleys, of the hidden places of the city, places just outside the margins of visibility and legibility."
-      - "By constructing her own autobiography through the reading of her mother's words, by thus paralleling their autobiographical acts, Akerman demonstrates that subjectivity is a function of connections to others, is constructed within a social context, that it arises and articulates itself only through its relation to others."
-      - "The construction of the self becomes a spatial issue; gender relations are written onto the body of the city, shaping it and shaped by it."
+
   - title: "The Avant-Garde: History and Theories"
     authors:
       - Penley, Constance
@@ -649,10 +660,6 @@ bibliography:
       - Jacques Lacan
       - subjectivity
       - desire
-    quotes:
-      - "From Lacan's perspective, the analyst is not the one who ought to provide an interpretation, never mind guidance. In fact, to put that more strongly, they ought to work hard not to provide an interpretation. Only you can interpret your experiences, dreams and desires. This shift of responsibility, for Lacan, occurs already at the level of the text. When you read, you are responsible for your reading, learning and interpretation of the text."
-      - "Lacan used to refer, jokingly (which is not to say without seriousness), to his writings as poubellication. This is a made-up word, a play on the French words poubelle, meaning 'bin,' and publication (it's the same in French). Lacan appears to be making a connection between publishing his ideas and discarding them."
-
     notes: |
       - Introduction notes that Lacan wrote in a purposefully challenging style so as to force the reader to work hard to understand his ideas.
         - This is not mentioned in the book, but this is based on a tradition that comes from other philosophers, such as Hegel, and the concept of *Bildung* (self-cultivation through study and reflection)
@@ -708,6 +715,8 @@ bibliography:
             - the fact that we can only conceive of ourselves in terms which are fundamentally alien to ourselves
             - the fact that the basis of our never-ending process of identification is a misrecognition of an external object as ourself
             - the split between the unconscious and the conscious mind
+      - "From Lacan's perspective, the analyst is not the one who ought to provide an interpretation, never mind guidance. In fact, to put that more strongly, they ought to work hard not to provide an interpretation. Only you can interpret your experiences, dreams and desires. This shift of responsibility, for Lacan, occurs already at the level of the text. When you read, you are responsible for your reading, learning and interpretation of the text."
+      - "Lacan used to refer, jokingly (which is not to say without seriousness), to his writings as poubellication. This is a made-up word, a play on the French words poubelle, meaning 'bin,' and publication (it's the same in French). Lacan appears to be making a connection between publishing his ideas and discarding them."
 
   - title: Sculpting in Time
     author: Tarkovsky, Andrei
@@ -751,9 +760,7 @@ bibliography:
     translator: Rendall, Steven
     publisher: University of California Press
     notes: |
-      I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but it seems very interesting. That essay seems to focus on the "Walking in the City" chapter.
-    quotes:
-      - "The act of walking is to the urban system what the speech act is to language or to the statements uttered. At the most elementary level, it has a triple 'enunciative' function: it is a process of appropriation of the topographical system on the part of the pedestrian (just as the speaker appropriates and takes on the language); it is a spatial acting-out of the place (just as the speech act is an acoustic acting-out of language); and it implies relations among differentiated positions, that is, among pragmatic 'contracts' in the form of movements (just as verbal enunciation is an 'allocution,' 'posits another opposite' the speaker and puts contracts between interlocutors into action). It thus seems possible to give a preliminary definition of walking as a space of enunciation."
+      - I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but it seems very interesting. That essay seems to focus on the "Walking in the City" chapter.
     tags:
       - architecture
       - urban space
@@ -773,7 +780,7 @@ bibliography:
       - gender
       - unread
     notes: |
-      I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but this is where that essay gets the idea of the close-to-the-streets urban space as feminine from.
+      - I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but this is where that essay gets the idea of the close-to-the-streets urban space as feminine from.
     pages: 111-124
 
   - title: Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles
@@ -793,8 +800,8 @@ bibliography:
     notes: |
       - Short article preceding an interview with Akerman
       - There is a strong, terse description of how the film constructs subjectivity through non-traditional means
-    quotes:
-      - "The system of subjective shots is eliminated and with it a logic of spatial matches rationalized by the interest of various characters, The logic of the organization of shots reverts to the camera and its marked controller, a feminist filmmaker."
+        - "The system of subjective shots is eliminated and with it a logic of spatial matches rationalized by the interest of various characters, The logic of the organization of shots reverts to the camera and its marked controller, a feminist filmmaker."
+        - That is, because the film denies a subject, Akerman herself becomes the subject by default
     
   - title: Chantal Akerman on Jeanne Dielman
     in:
@@ -816,19 +823,18 @@ bibliography:
       - The Beloved Child, or I Play at Being a Married Woman
     notes: |
       - Sources like to say that Akerman did not consider Jeanne Dielman to be a feminist film, but in this interview she explicitly says that she does think it is a feminist film. I think this is an important point to note, because it seems like a lot of people have misinterpreted her stance on this. Not wanting to be pigeonholed as a feminist filmmaker is not the same as not thinking that her work is feminist.
+        - "I do think it's a feminist film because I give space to things which were never, almost never, shown in that way, like the daily gestures of a woman. They are the lowest in the hierarchy of film images. A kiss or a car crash come higher, and I don't think that's an accident. It's because these are women's gestures that they count for so little. That's one reason I think it's a feminist film."
       - This interview also directly discusses her thoughts on respect, which is often cited as a key driver behind the distanced filming style
+        - "The framing was meant to respect the space, her, and her gestures within it."
       - She says that there is only one subjective shot in her films (up to 1977 of course), which is when she looks at the back of the driver's neck in Je, tu, il, elle.
       - She also talks about how "The Beloved Child, or I Play at Being a Married Woman" was a failure due to using duration for mood rather than presence
       - Akerman draws the parallel between Jeanne Dielman and Madame Bovary
       - She invokes the idea of the unconscious, as Jeanne no longer has the strength to uphold the barrier between herself and her unconscious after she has an orgasm
       - She directly addresses the criticism of the murder scene, saying that it is a logical outcome of the film rather than her falling into the need for a sensational climax
-      - She also discusses "jouissance du voir"/scopophilia
-    quotes:
-      - "I do think it's a feminist film because I give space to things which were never, almost never, shown in that way, like the daily gestures of a woman. They are the lowest in the hierarchy of film images. A kiss or a car crash come higher, and I don't think that's an accident. It's because these are women's gestures that they count for so little. That's one reason I think it's a feminist film."
-      - "The framing was meant to respect the space, her, and her gestures within it."
+        - "But the murder was the logical thing to have happen there. To me, she had only two solutions: either to kill herself or kill someone else. Of course there is some part of me in the film and I would have killed some one else. Certain people hate this murder and say, 'You have to be more pure. If you show a woman doing the dishes, you shouldn't show a murder.' But I don't think that's true. The strength of the thing is to show them both in the same film. And it didn't end with the murder. There are seven really very strong minutes after that."
+      - She also discusses "jouissance du voir"/scopophilia: the ecstasy of seeing
       - "It was never shot from the point of view of the son or anyone else. It's always me. Because the other way is manipulation. The son is not the camera; the son is her son. If the son looks at his mother, it's because you asked him to do it. So you should look at the son looking at the mother, and not have the camera in place of the son looking at the mother."
       - "The fact that she was frigid was almost a protection of the one place where she was not alienated"
-      - "But the murder was the logical thing to have happen there. To me, she had only two solutions: either to kill herself or kill someone else. Of course there is some part of me in the film and I would have killed some one else. Certain people hate this murder and say, 'You have to be more pure. If you show a woman doing the dishes, you shouldn't show a murder.' But I don't think that's true. The strength of the thing is to show them both in the same film. And it didn't end with the murder. There are seven really very strong minutes after that."
 
   - title: "Getting Ready for the Golden Eighties: A Conversation with Chantal Akerman"
     author: Indiana, Gary
@@ -848,20 +854,19 @@ bibliography:
       - Deleuze & Guattari
     notes: |
       - Akerman says she had only seen a couple of Warhol films, counter to what a some sources say about her being heavily influenced by his work
-      - Her words about cutting when she feels the shot is finished reminds me of the Every Frame a Painting video essay on editing
-      - The oscillation between seeing symbolic objects and pure colour is something like dipping between Lacanian registers
-      - The way she describes Michael Snow's films and the difference between them and her own is very interesting. She was obviously heavily influenced by him, as visible in La chambre, Moving In, The Day When, etc., but clearly considers herself apart from the more purely conceptual structuralist approach. I am reminded of this Letterboxd review by Jake Cole of News from Home: "It's too easy and reductive to say of Akerman that she, in comparison to her male contemporaries, found the heart beating within structuralism [...] it is more accurate to say that the director best understood the applications of structuralism not merely to cinema formalism but to the patterns of quotidian life."
+      - "when I first did [Hotel Monterey], I didn't know exactly how it would look. But I directed the shots like this: I put the camera down, found the frame, and when I felt the shot was finished, stopped it. So the shots are exactly as long as I had the feeling of them inside myself."
+        - This reminds me of the [Every Frame a Painting video essay on editing](https://www.youtube.com/watch?v=3Q3eITC01Fg)
+      - "When you look at a picture, if you look just one second, you get the information, 'that's a corridor.' But after a while you forget it's a corridor; you just see that it's yellow, red; that it's lines; and then again it comes back as a corridor. If you don't stay long enough, if you don't stare, you will never forget that this is information about a corridor"
+        - This is something like dipping between Lacanian registers or the conscious and unconscious
+      - "you can describe Michael Snow's films on a piece of paper. Okay, you have to experience the time and everything, but in fact it's one idea; he pushes one idea until the end. He's a conceptual artist. I don't have an idea. I have a feeling that I try to express."
+        - This is very interesting. She was obviously heavily influenced by Snow, as visible in La chambre, Moving In, The Day When, etc., but clearly considers herself apart from the more purely conceptual structuralist approach. I am reminded of this Letterboxd review by Jake Cole of News from Home: "It's too easy and reductive to say of Akerman that she, in comparison to her male contemporaries, found the heart beating within structuralism [...] it is more accurate to say that the director best understood the applications of structuralism not merely to cinema formalism but to the patterns of quotidian life."
       - Akerman disagrees with Paul Morrissey that characters are always revealed through dialogue. She says they are also revealed through gesture, from the back, from every side, and can be revealed even when offscreen.
       - Akerman believes that characters must have some kind of secret that is held in order to drive curiosity in the viewer. Even further, the secret is not held by the character, but by the actor. This seems to interact with various ideas about desire, from Lacan and Proust. It is very visible in La captive.
       - She planned at some point to do an adaptation of The Manor (1967) by Isaac Bashevis Singer
       - Akerman references Deleuze & Guattari's book on Kafka, where "minor literature" is discussed, which is very relevant as you could see her films as part of a "minor cinema"
-    quotes:
-      - "when I first did [Hotel Monterey], I didn't know exactly how it would look. But I directed the shots like this: I put the camera down, found the frame, and when I felt the shot was finished, stopped it. So the shots are exactly as long as I had the feeling of them inside myself."
-      - "When you look at a picture, if you look just one second, you get the information, 'that's a corridor.' But after a while you forget it's a corridor; you just see that it's yellow, red; that it's lines; and then again it comes back as a corridor. If you don't stay long enough, if you don't stare, you will never forget that this is information about a corridor"
-      - "you can describe Michael Snow's films on a piece of paper. Okay, you have to experience the time and everything, but in fact it's one idea; he pushes one idea until the end. He's a conceptual artist. I don't have an idea. I have a feeling that I try to express."
+        - "...the fact that [Kafka] not using his own language, but another language that isn't his mother tongue. I feel the same way when I speak French, it's not exactly my language."
       - "(of Je, tu, il, elle) It's not voyeuristic because the camera doesn't move. If the camera had moved, and picked up something, singled out something, it would have been different. But the way the camera stayed, fixed—it's very dignified."
       - "People were a little bit angry at me because of the murder at the end of Jeanne Dielman . . . She does it and then she sits for seven minutes. And then you don't understand her. You will never. I hope you never will—that's the strength of the film. You will never know what is happening in her mind and in her heart. I don't know either. It's the secret of Delphine Seyrig, not the character she's playing. It's not Jeanne Dielman's secret, it's Delphine's secret."
-      - "...the fact that [Kafka] not using his own language, but another language that isn't his mother tongue. I feel the same way when I speak French, it's not exactly my language."
     films: 
       - Hotel Monterey
       - Saute ma ville
@@ -906,8 +911,8 @@ bibliography:
       - This will be updated with random musings as I slowly make my way through the book
       - I think this is a very relevant book to Akerman's work, especially in terms of the way she captures time and memory, and of course because of her adaptation of The Prisoner in The Captive
       - Desire seems formulated in a similar way to many of Akerman's films, in that it is unattainable, but deeply yearned for, like the dream of a lover that is shattered upon waking
-    quotes:
       - "my mother [...] watched [my father] with a tender respect, but not so intently as to try to penetrate the mystery of his superior qualities"
+        - This reminded me of the conversation between Simon and Ariane in La captive, where Simon is frustrated that Ariane does not seem to understand him, and he cannot understand her. The idea of a "mystery" that cannot be penetrated, and the frustration that comes with that, seems very relevant to Akerman's work.
 
 
 themes_and_concepts:
