@@ -146,6 +146,11 @@ function generateResearchQuestionsHtml(questions) {
     `;
 }
 
+function normalizeQuoteText(value) {
+    if (typeof value !== 'string') return value;
+    return value.trim().replace(/^(?:["'“”‘’])+|(?:["'“”‘’])+$/g, '');
+}
+
 function generateBibliographyHtml(bibliography, refLookup) {
     return bibliography.map((item) => {
         const notesHtml = item.notes
@@ -159,7 +164,7 @@ function generateBibliographyHtml(bibliography, refLookup) {
             ? `<details class="quotes-panel">
                 <summary>Quotes</summary>
                 <ul class="quotes">${item.quotes
-                .map(quote => `<li>“${quote.replace(/['"]/g, '')}”</li>`)
+                .map(quote => `<li>“${normalizeQuoteText(quote)}”</li>`)
                 .join('')}</ul>
               </details>`
             : '';
