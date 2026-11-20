@@ -34,7 +34,15 @@
     - "Such grave uncertainty, whenever the mind feels overtaken by itself; when it, the seeker, is also the obscure country where it must seek and where all its baggage will be nothing to it. Seek? Not only that: create. It is face-to-face with something that does not yet exist and that only it can accomplish, then bring into its light."
     - This is an interesting through which to view the way Akerman's works that deal in memory are active processes that work within the viewer, rather than passive presentations of a pre-existing memory.
   - "And suddenly the memory appeared." (Et tout d'un coup le souvenir m'est apparu.)
+    - Interesting that the indirect object is implicit in the English translation.
   
 ### Chapter 2
 
 - "happy with a peace that brings only an increase of anxiety and with a quality of the prosaic that serves as a great reservoir of poetry to one who passes through it without having lived in it."
+- "an edifice occupying a space with, so to speak, four dimensions – the fourth being time – extending over the centuries its nave which, from bay to bay, from chapel to chapel, seemed to vanquish and penetrative not only a few yards but epoch after epoch from which it emerged victorious"
+- Cursed thought: Time in this book is very weird because it can slow right down and so much thought can occur in the tiny gaps between actions. This is just like action sequences in anime where time slows all the way down, and the characters have dueling monologues (talk blocks) where they consider what is occurring in depth. So yeah, Proust is basically writing a battle shōnen anime about memory.
+- The Narrator is constantly considering how he can give or receive kisses
+- "I am turning a corner... but... I am doing so in my heart"
+- "[none of those engravings evoke] the feeling that makes us not consider a thing a spectacle, but believe in it as in a creature without equivalent, none of them holds in subjection an entire profound part of my life"
+- "You have a lovely soul, of a rare quality, an artist's nature, don't ever let it go without what it needs"
+- "she had taken some insignificant remark of my father's, had worked it delicately, turned it, given it a precious appellation, and enchasing it with one of her glances of the finest water, tinged with humility and gratitude, had given it back changed into an artistic jewel, into something 'completely exquisite'"
