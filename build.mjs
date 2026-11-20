@@ -146,26 +146,29 @@ function generateResearchQuestionsHtml(questions) {
     `;
 }
 
-function normalizeQuoteText(value) {
-    if (typeof value !== 'string') return value;
-    return value.trim().replace(/^(?:["'“”‘’])+|(?:["'“”‘’])+$/g, '');
+function resolveEntryNotes(item) {
+    const noteFiles = [];
+
+    if (item.notes_file) noteFiles.push(item.notes_file);
+    if (Array.isArray(item.notes_files)) noteFiles.push(...item.notes_files);
+
+    if (noteFiles.length) {
+        return noteFiles
+            .map(noteFile => fs.readFileSync(noteFile, 'utf8').trim())
+            .filter(Boolean)
+            .join('\n\n');
+    }
+
+    return item.notes || '';
 }
 
 function generateBibliographyHtml(bibliography, refLookup) {
     return bibliography.map((item) => {
-        const notesHtml = item.notes
+        const entryNotes = resolveEntryNotes(item);
+        const notesHtml = entryNotes
             ? `<details class="notes-panel">
                 <summary>Notes</summary>
-                <div class="notes">${marked.parse(item.notes)}</div>
-              </details>`
-            : '';
-
-        const quotesHtml = item.quotes
-            ? `<details class="quotes-panel">
-                <summary>Quotes</summary>
-                <ul class="quotes">${item.quotes
-                .map(quote => `<li>“${normalizeQuoteText(quote)}”</li>`)
-                .join('')}</ul>
+                <div class="notes">${marked.parse(entryNotes)}</div>
               </details>`
             : '';
 
@@ -186,7 +189,6 @@ function generateBibliographyHtml(bibliography, refLookup) {
                 ${tagsHtml}
                 ${filmsHtml}
                 ${notesHtml}
-                ${quotesHtml}
             </article>
         `;
     }).join('\n');

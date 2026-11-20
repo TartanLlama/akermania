@@ -1,0 +1,50 @@
+- He has some interesting thoughts on the nature of acting, or how best to direct actors:
+  - "Movement from the exterior to the interior. [...] The thing that matters is not what they show me but what they hide from me, and, above all, *what they do not suspect is in them*"
+  - "Between them and me: telepathic exchanges, divination"
+  - "The actor projects himself before him in the form of the character he wants to seem; lends him his own body, face, voice; makes him sit down, stand up, walk; penetrates him with sentiments and passions he himself does not have. This 'I' who is not his 'I' is incompatible with cinematography."
+- He suggests that there are two types of films:
+  - Those that use theatrical tools to *reproduce*
+  - Those that use cinematic tools to *create*
+  - I find this distinction pretty simplistic
+- Bresson gets into ideas about reproduction (e.g. the photograph of a painting) as not having the value or power of the original, very Walter Benjamin
+- Wow Bresson really rails against cinema as theatre here
+  - I wonder if he saw Akerman's *Letters Home*
+  - I do interpret his definition of "theatre" as being less about exactly theatre as an art form, and more about very particular technologies of the theatre in a direct representational sense
+- He very much sees cinema as its own complete art form, distinct from all others
+- "If an image, looked at by itself, expresses something sharply, if it involves an interpretation, it will not be transformed on contact with other images. The other images will have no power over it, and it will have no power over the other images. Neither action, nor reaction. It is definitive and unusable in the cinematographer's system."
+  - This quote reminds me a lot of Tarkovsky's ideas about metaphor and symbolism from *Sculpting in Time*; how a cinematic image is not a directly-substitutable representation of some other thing, but rather a unique and self-contained entity that can only be understood in relation to other cinematic images and the viewer's own subjectivity
+- "Actors, costumes, sets and stage furniture are bound to make one think at once of the stage. Take care that the persons and objects in my film may not make people think at once of the cinematographer."
+  - It is intriguing to me that Bresson is so concerned with the invisibility of the cinematographer, when his films are so stripped down and minimalistic that they take on a level of theatre
+- There is much here that is very counter to Akerman's work, yet I think their cinemas are very much in conversation with one another and are complementary in many ways
+  - For example, this quote: "Actor. The 'to-and-fro of the character in front of his nature' forces the public to look for talent on his face, instead of the enigma peculiar to each living creature."
+  - This is directly counter to much of the acting performances in Akerman's work, which, as Margulies notes, oscillate between literal and figurative registers
+  - Ultimately, I think Bresson and Akerman ofter reach a similar end effect, but it seems that it is through very different, almost opposite means
+  - One could say that they both reach a level of opacity in the presentation of the character, but the opacity is achieved is informed by conflicting philosophical approaches
+  - However, they both align on the idea that the actor should have some secret that is not revealed to the audience, and may not even be fully known to the actor themselves
+- "What is for the eye must not duplicate what is for the ear"
+  - This is a great quote for Je, te, il, elle, and the unsynced voiceover in the first section
+- The whole book is filled with gems; Bresson had quite the talent for stripped down writing as well as images. Here are some of my other choice quotes:
+  - "Cinematograph is a writing with images in movement and with sounds."
+  - "An actor in cinematography might as well be in a foreign country. He does not speak its language"
+  - "An image must be transformed by contact with other images as is a color by contact with other colors. A blue is not the same blue beside a green, a yellow, a red. No art without transformation."
+  - "The ejaculatory force of the eye"
+  - "Be sure of having used to the full all that is communicated by immobility and silence."
+  - "Don't run after poetry. It penetrates unaided through the joins (ellipses)."
+  - "Neither the director nor the scenario-writer. Forget you are making a film."
+  - "If, on the screen, the mechanism disappears andthe phrases you have made them say, the gestures you have made them make, have become one with your models, with your film, with you — then a miracle."
+  - "Images and sounds like people who make acquaintance on a journey and afterwards cannot separate."
+  - "Nothing too much, nothing deficient."
+  - "Music takes up all the room and gives no increased value to the image to which it is added."
+  - "A small subject can provide the pretext for many profound combinations. Avoid subjects that are too vast or too remote, in which nothing warns you when you are going astray. Or else take from them only what can be mingled with your life and belongs to your experience."
+  - "A sound must never come to the rescue of an image, nor an image to the rescue of a sound."
+  - "Gestures and words cannot form the substance of a film as they form the substance of a stage play. But the substance of a film can be that...thing or those things which provoke the gestures and words and which are produced in some obscure way in your models. Your camera sees them and records them. So one escapes from the photographic reproduction of actors performing a play; and cinematography, that new writing, becomes at the same time a method of discovery."
+  - "Because you do not have to imitate, like painters, sculptors, novelists, the appearance of persons and objects (machines do that for you), your creation or invention confines itself to the ties you knot between the various bits of reality caught. There is also the choice of the bits. Your flair decides."
+  - "Two simplicities. The bad: simplicity as starting-point, sought too soon. The good: simplicity as end-product, recompense for years of effort."
+  - "Music. It isolates your film from the life of your film (musical delectation). It is a powerful modifier and even destroyer of the real, like alcohol or dope."
+  - "Displaying everything condemns CINEMA to cliché, obliges it to display things as everyone is in the habit of seeing them. Failing which, they would appear false or sham."
+  - "One does not create by adding, but by taking away."
+  - "It is not a matter of acting 'simple' or of acting 'inward' but of not acting at all."
+  - "Your camera catches not only physical movements that are inapprehensible by pencil, brush or pen, but also certain states of soul recognizable by indices which it alone can reveal."
+  - "Accustom the public to divining the whole of which they are given only a part. Make people diviners. Make them desire it."
+  - "Shudderings of images awakening."
+  - "Ideas gathered from reading will always be bookish ideas. Go to the persons and objects directly."

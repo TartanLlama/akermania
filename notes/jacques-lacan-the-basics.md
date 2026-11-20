@@ -1,0 +1,62 @@
+- Introduction notes that Lacan wrote in a purposefully challenging style so as to force the reader to work hard to understand his ideas.
+  - This is not mentioned in the book, but this is based on a tradition that comes from other philosophers, such as Hegel, and the concept of *Bildung* (self-cultivation through study and reflection)
+- An important aspect of the Mirror Stage that a lot of resources seem to elide is that, Lacan isn't saying that the mirror stage is a one-time event, but rather that it is a stage that we go through multiple times in our lives, and it doesn't even need to involve a literal mirror.
+- The knot referred to in the book is the Borromean knot, which is a knot of three rings that are linked in such a way that if any one of the rings is cut, the other two will also become unlinked. This is used as a metaphor for the relationship between the Real, the Imaginary, and the Symbolic:
+- The chapter on *l'objet petit a* is quite wonderful, and the aspect of Lacan's work that I find most interesting
+  - Since I'm concurrently reading In Search for Lost Time, it is very clear that Proust's ideas of desire are very similar, or at least complementary
+  - The book is very good at explaining the difference between desire, need, and demand:
+    - Need is a biological or physiological requirement, such as food, water, or shelter
+    - Demand is a social or cultural requirement, such as the need for love, attention, or recognition
+    - Desire is a more complex and elusive concept, which is not reducible to either need or demand. It is a fundamental aspect of human subjectivity, and it is always in excess of what can be satisfied by any particular object or experience.
+  - *L'objet petit a* is usually left untranslated, but the "a" is at least originally short for "autre" (other)
+  - Sometimes it is seen as the "object of desire", but it's more accurate to say that it is the object that is *causing* desire, rather than the object that is desired
+    - As such, it is sometimes referred to as the "object-cause of desire"
+  - Lacan's ideas on *L'objet petit a* are at least partially based on Plato's concept of "agalma" from the Symposium, which is a kind of "hidden treasure" that is sought after, but which is never fully attainable or describable. The *je ne sais quoi* that makes someone or something attractive.
+  - *L'objet petit a* takes this concept and extrapolates it through Lacan's other ideas, such as the three orders, lack, and desire:
+    - It is put at the centre of the Borromean Knot of the three orders, and is the point at which the three orders are linked together
+    - I don't fully understand the connection between l'objet petit a and all of the orders, but [this article](https://thedangerousmaybe.medium.com/lacans-borromean-knot-and-the-object-cause-of-desire-3fd580df80b) seems like it will be helpful if there is not a description in the book:
+- Some of the book's own summary of key points:
+  - Introduction:
+    - Psychoanalysis, unlike psychiatry, does not follow a medical model.
+    - Key among the novelties of psychoanalysis are the idea of the unconscious and the emphasis placed on speech.
+    - A significant distinction between Lacan's version of psychoanalysis and other versions was his discarding of conventional session lengths. This move allowed him to make the timing of the session part of the analysis itself. It also got him kicked out of the main psychoanalytic organisation, the International Psychoanalytic Association.
+    - Lacan's ideas extend beyond psychoanalysis, drawing in influences from philosophy and finding an audience in philosophical as well as psychoanalytic circles.
+    - The question of subjectivity is one which bridges both psychoanalysis and philosophy and Lacan's theory of subjectivity is one of his most significant contributions to world thought.
+  - Philosophical background:
+    - Augustine and the idea of a narrated life.
+    - Aquinas and the influence of Aristotle on European thought.
+    - Descartes and the idea of the individual as an indivisible entity at the centre of their own world.
+    - Locke and the idea of consciousness and the mind as originally a blank slate.
+    - Hegel and the notion that our idea of ourselves emerges through an encounter with another.
+  - The Mirror Stage:
+    - The fact that desire is something we learn, both in terms of its form and content.
+    - That we develop an idea of ourselves based on an encounter with an external image.
+    - The contrast between our experience and our idea of ourself gives rise to a mismatch and creates a sense of lack.
+    - There is no correct or true version of oneself behind or beneath one's mistaken idea of oneself.
+    - The self is not a coherent singular thing.
+    - The process of identity formation entails lack, aggression and anticipation.
+  - The orders of the Real, the Imaginary, and the Symbolic:
+    - Identity is an always ongoing process of identification. Our identifications shape our relationship with the world and others in the world. Lacan calls this mode of experience the imaginary.
+    - We are born into a world of language and other systems of rules. These structures govern our experience of the world. Lacan calls this mode of experience the symbolic. The fact that language is always alien to us, but a primary means by which we know or think of ourselves, means that we are always alienated from ourselves.
+    - Although processes of identification and the fact of language allow us to process and relate to the world, they are necessarily incomplete modes of experience. There is always something beyond our identifications and beyond our abilities to articulate our experiences of the world. Lacan calls this beyond the real.
+    - These three modes of experiencing the world are bound together in a peculiar knot which is structured in such a way that cutting any one of the rings will result in the other two also becoming detached from each other.
+  - L'objet petit a:
+    - An object in classic psychoanalysis is our mental representation of another person
+    - Objet petit a is not actually an object at all, it is the gap that we seek to fill with other objects, either in the sense of people or in the sense of things, or the absent thing that will complete us.
+    - The urge to find this something that will fill the gap or incompleteness we feel is what Lacan calls desire.
+    - Desire can be distinguished from other wants, namely need and demand.
+    - Desire is never actually satisfied.
+    - Desire can be understood as coterminous with lack.
+    - The lack that we experience is rooted in a series of impossibilities and disconnects:
+      - the impossibility of language expressing everything
+      - the fact that we can only conceive of ourselves in terms which are fundamentally alien to ourselves
+      - the fact that the basis of our never-ending process of identification is a misrecognition of an external object as ourself
+      - the split between the unconscious and the conscious mind
+  - The unconscious:
+    - Freud used the term unconscious both as a substantive (i.e., the unconscious) and as an adjective (i.e., describing some idea as being unconscious).
+    - Freud distinguishes the unconscious from two other elements of the psyche, the conscious and the pre-conscious.
+    - Freud argued that we repress unpleasant ideas and this is what constitutes the unconscious.
+    - Lacan reconceived the unconscious, drawing on insights from structural linguistics, particularly Saussure's idea of the signifier/signified pair.
+    - Developing from this idea, Lacan argued the unconscious is structured like a language.  
+- "From Lacan's perspective, the analyst is not the one who ought to provide an interpretation, never mind guidance. In fact, to put that more strongly, they ought to work hard not to provide an interpretation. Only you can interpret your experiences, dreams and desires. This shift of responsibility, for Lacan, occurs already at the level of the text. When you read, you are responsible for your reading, learning and interpretation of the text."
+- "Lacan used to refer, jokingly (which is not to say without seriousness), to his writings as poubellication. This is a made-up word, a play on the French words poubelle, meaning 'bin,' and publication (it's the same in French). Lacan appears to be making a connection between publishing his ideas and discarding them."

@@ -1,0 +1,54 @@
+- Uses the term "personal pronouncements" to describe the fictions that Akerman creates in these two films, because it "conjoins autobiography and enunciation to point towards a revelation of the intimate"
+- Apparently "personal pronouncements" was the original title of Je, tu, il, elle in the US release
+- The way that this says all personal filmmaking borders on autobiography is very true to Akerman's work in particular, both through her presence as an actor, and substitution in many of her films (or substitutions for her mother):
+  - "In some sense, all writing and personal filmmaking border on autobiography, even when placed in the third person, or filmed without direct reference to the filmmaker's body or life"
+- Akerman's self suffuses the film even though she seemingly covers it in a veneer of fiction, and this is achieved through several techniques of artificiality and abstraction that create further links between Akerman the director and Akerman/Julie        
+  - "even as the self is disguised by these ruses of language, the body of the author dominates the images"
+- Invokes the psychoanalytic concept of "acting out" (mettre en acte, ageren), indicating "actions taken by a subject in the grip of [their] unconscious wishes and fantasies"
+- The way the essay discusses the alternation between the textual character's voice and the authorial voice reminds me of the way Margulies describes oscillation between literal and figurative registers
+  - "the revelation of her character's unconscious desires is shadowed by the hint of a revelation of an authorial, personal, autobiographical unconscious, as the space between fictive character and authorial voice is alternatively collapsed and expanded in the film's unfolding"
+- "Julie methodically pursues communication in the form of a letter-writing destined always to be rewritten and never to be sent. The only revelation of self she seems capable of committing consists of the merely physical."
+  - Or in other words, she is unable to express her interiority through language, and instead expresses it through her body and the space she inhabits
+- Highlights Judith Mayne's assertion that the reading of the film as moving from isolation to "hesitant heterosexuality" to "triumphant lesbianism" is overly simplistic, and that the film denies this by its non-linear structure
+  - "the film never seems to address a particular audience, never employs codes meant to offer it a privileged identification; this may account for Mayne's hesitation in calling the film a 'lesbian film'"
+- She also highlights Mayne's allusion to the fact that voice and image in the first section are not in sync
+  - For example, Julie says she paints the furniture blue the first day, then green the second, but we never see the act of painting, nor the colours
+  - Turim says that these establish a "pattern of mutability"
+- Turim makes the somewhat tenuous connection between the blue and green of the non-painting to the scene in Il deserto rosso, where Vitti is going through a shop painted with large blocks of colours
+  - I think it's unlikely that it's a direct reference, but the connection to Il deserto rosso seems well-made, as that film also considers itself with spaces reflecting the psychology of the characters, and the use of colour to reflect interiority
+- The essay captures the difficulty of expressing one's interiority, and of making it concrete
+  - "[the first segment offers] a staging of a difficulty with writing, a hesitation with a commitment of pencil to paper, and of self to permanent record of an enunciation"
+- The verfremdungseffekt is invoked to heighten the feeling that this is a performance, and to problematise the notion of authorship and subjectivity in the film
+- Similarly to Mayne, Turim takes issue with a simplistic reading of the film as a clear linear progression of the Je through the Il, to the Elle:
+  - "this bare-bones structural version of the film is a stripping of it down to its elemental and symbolic pronomial quest, but it immediately invites a symbolic interpretation, reading into the image, monologues, dialogues, and sounds an investment that carries its own presuppositions"
+- She notes that all the pronouns are indirectly assigned, "recalling the hesitation about writing dramatised in the opening sequence": way in which Akerman the director hesitantly assigns identity mirrors the way Akerman/Julie hesitantly writes, suggesting further a connection between the authorial and textual voices
+- She discusses the concept of "filmic writing"
+  - She notes that the hesitiation in writing offers a visual pun on the concept of "filmic writing"
+  - Particularly, she compares it to Robert Bresson's *l'écriture filmique*, which is Bresson's term for what is elsewhere called the "caméra-stylo" (camera-pen)
+    - *Caméra-stylo* is a term advanced by Alexandre Astruc in 1948 in his essay "The Birth of a New Avant-Garde: The Camera-Pen", which argues that cinema can be used to tackle any subject, not simply tell visual stories
+    - Curiously, Turim cites Bresson's *Notes on Cinematography* as the source of the term, but I cannot find a mention of this term in the book, as wonderful as it is. I even read the same translation that Turim cites.
+- Invokes Julia Kristeva's term "soleil noir" (black sun): the dark lens through which desire is filtered
+  - This is a concept discussed in Kristeva's book *Black Sun: Depression and Melancholia*, which is a psychoanalytic study of depression and melancholia
+- Turim links feeding with desire: desire for nurturance to desire for the breast
+  - Similar to the way Mayne discusses orality
+- Compares the film to Godard, Warhol, Bresson, Antonioni, Deren, and Resnais
+- She notes how the sex sequence breaks the usual model of lesbian relationships as "always emotionally articulate", and instead presents inarticulate bodies and desire, thus breaking with traditional modes by which lesbianism is put on display for a third party audience, potentially male
+  - "Only when they arrive at orality, at the former lover's embrace of Julie's labia, does the segment move from a quasi-wrestling match to a defined sex act, but, even so, the usual codes of sexual portrayals in filmic images are so avoided that viewers are left with a singular depiction of sex. This singularity is less that of women, of lesbian love, than that of a style of filmic writing that traces the awkward through to its own poetics, that refuses any romanticism in the flirtation with the physical, that troubles one's tactile imagination, one's imaginary and identificatory insertion into touch-portrayed as touch-felt."
+  - The above quote also reflect the anti-pornographic presentation of the sex scene, similar to discussions in the Mayne and Narboni essays
+- "Julie arrives unnanounced because a letter could not be written and could not be sent; the body arrrives at the destination of the errant letter"
+  - Derrida's *destinerrance*?
+- The most interesting part of this essay, I feel, is the musings on the troublement of gender in the film:
+  - "If the truck driver [...] offers a form of typical masculinity, the lover offers a stereotyped femininity, marked in interior, food, and a submissive body that says 'no', but complies. Julie is a troubling third being, wandering through their spaces as a stranger, an alien".
+  - My gender is a "troubling third being", what a great line
+  - You could say more that Julie has a very fluid relationship to both gender and sexuality
+- Turim does a good job of discussing psychoanalytic interpretations while also noting their limitations:
+  - "the glass door to Julie's apartment in the first segment in which she looks at herself, only to realise it is a transparency through which she can be seen. Finally, it becomes an opened door through which she leaves, and it remains open[...]. One could align this mirror via Lacan's theorisation of the mirror stage with a throubled passage through primary narcissism."
+  - She notes Narboni's term "mirror-door-windows"
+  - She discusses how such framings are drawn on a history of pathologising homosexuality as a deviant form of sexuality
+  - "The goal for the long term seems to be to avoid fulfilling a traditional analyst's sense of who one is, in order to challenge the theory to accommodate the shifting politics of newly possible identities, ones that can only emerge as a culture becomes ready to let them be and develop"
+- On the subject of "Portrait of a Young Girl", Turim draws on political and historical readings of Lacan's seminars:
+  - "Lacan draws connections between elements borrowed from existential philosophies in his thought and the events of May 1968"
+  - She notes that Akerman has Michelle quote Kierkegaard
+  - These thoughts seem to trail off somewhat, more just pointing at the fact that political context is reflected in the film, rather than making any strong claims about the political nature of the film or the impacts on the psyche of the characters
+- Turim finishes by attempting to place Akerman in a "larger history of art" by comparing her with the work of Marina Abramović, and Marie Audré
+- I found this essay very dense in its references, and I'm not sure it has more to say than the sum of those references, but it is worth a read for the number of rabbit holes that it opens up

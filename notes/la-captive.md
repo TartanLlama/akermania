@@ -1,0 +1,215 @@
+### Chapter 1 
+- "She did not reread [The Prisoner] before writing the screenplay, but later went back to fill in details, so that the film floats free of the novel while also being dense with references."
+- "If Proust is a fever dream, a tangle of language to lose one's way inside of, Akerman's project is to make us wait, holding us on the threshold, listening for footsteps coming down the corridor"
+- "She notes the similarity between Ariane and Ariadne from Greek mythology"
+- "Akerman was drawn to hotels, trains and stations, unpopulated landscapes—waiting places that could be filled up with time"
+- "Notes how Akerman rejected the idea that she depicted 'real time', rather 'hyperreality' or 'my time'"
+- Rosenbaum said "there are few important contemporary filmmakers whose range is as ruthlessly narrow as Akerman's, formally and emotionally": this seems waaaaay off
+  - I feel like usually anyone who tries to reduce Akerman to a single stylistic or thematic concern is just betraying their lack of familiarity with her work (not the case for Rosenbaum, but I still think it's a reductive statement)
+  - He also suggested her cinema be summarised as "the discomfort of bodies in rooms" or "the discomfort of bodies in shots"
+  - This is also reductive, but I don't hate it as a verbalisation of certain aspects of her work
+- The housekeeper in La Captive is called Françoise. This is the housekeeper that is so loved in Swann's Way and is very touched by being acknowledged
+- Smallwood notes that the workmen in the flat exist to give us the measure of the place, map it out in our head
+
+### Chapter 2
+- "Akerman was so scared to go to sleep that she would ask her mother to repeat 'Bonne nuit, Chantal' again and again until it was said in just the right way"
+  - Very Proustian, like the desire for the mother's kiss in Swann's Way
+- The porn theatre where Akerman worked was the 55th Street Playhouse. I read elsewhere that she would tear the tickets in two to pocket a ticket's worth of money; icon behaviour
+- "Her films are like a house where she could live with her mother, or her mother's voice (or her mother's ghost)"
+  - Reminds me about the quote of how her mother was home, and after she died, Akerman did not have a home anymore
+- "There is a strong ethical imperative in her form to let others exist - on their own terms, in their own time"
+- "She offers interior space [...] as a substitute for psychological interiority"
+  - I don't think this is necessarily the case, more that the interior space is a reflection of the interiority, a way of externalising it, or that the interior space shapes the character's psychological interiority
+- "How would I describe myself? [...] I'm a Jewish girl. [But if you asked me] what it means to be Jewish? I wouldn't be able to tell you"
+- "Even her films that are not explicitly about the Holocaust have a way of being about the Holocaust"
+  - Very true, even more than I've seen some scholars acknowledge
+  - I recall reading somewhere that said it was generally agreed that *D'est" was the first of her films to be indirectly about the Holocaust, which I think is an absurd claim
+
+### Chapter 3
+- "One might expect that Akerman, when asked why she adapted Proust, would say something like 'Marcel Proust is the only artist in the history of the world as obsessed with his mother as I am with mine. [...] We are both interested in the passing of time." But instead she said, 'that apartment, and a corridor'"
+  - Yeah, this is a very interesting answer, as there is so much linking Akerman and Proust, and that seems at first glance to be one of the minor aspects
+- Highlights several failed attempts to adapt Proust's work:
+  - Nicole Stéphane (actor and producer) tried for 21 years to get an adaptation made
+  - Truffaut replied "no real film-maker would allow himself to squeeze the madeleine as though it were a lemon and in my opinion only a film butcher would have the nerve to put Proust through the mincer"
+  - Resnais, Rivette and Malle passed on it
+  - Luchino Visconti wrote a script and cast the film, but the project was abandoned when the producer needed more time to raise the 5 billion lire needed for the four-hour film, and he either gave up or died (both have been reported)
+  - Apparently Godard was interested in adapting Proust at some point
+  - There is a film called *Swann in Love* (1984) directed by Volker Schlöndorff, an adaptation of the first volume, which is apparently quite maligned, although Smallwood enjoys it, in spite of claiming it mostly "exists only to prove the unadaptability of Proust"
+  - "Schlöndorff's direction is riddled with cliches; then again so is love"
+- On Ruiz's *Time Regained*:
+  - "Ruiz's film is also a story of rooms, interior spaces inside a surrealist memory palace. [...] since he is working with Proust's last volume, he can present the world of the novel as a fragmented totality"
+- Ruiz said of adapting Proust:
+  - "Film is a very Proustian medium. At any given moment, you can be kidnapped by the past."
+- She references Genevieve Yue's assertion that two of Akerman's abiding concerns are "distance and confinement"
+  - This is a quote from her essay The Lights of Home, in Even Magazine, issue 3, which looks at *No Home Movie*
+- She also references Alice Blackurst, who says that Akerman's films possess "luxurious contemplation" and "voluptuous capacity for reverie and drift"
+  - That sounds very Proustian to me
+  - The quote comes from Blackhurst's book "Luxury, Sensation and the Moving Image", which contains a chapter on Akerman titled "Chantal Akerman: An Experience of Immersion and Duration"
+    - I found a review of this book by Marion Schmid (author of an entire book on Akerman and co-editor of Afterlives from the same publisher as Blackhurst's book) that has the following to say:
+      - "Blackhurst identifies luxury in the protracted ways in which these films immerse their spectators in a 'thick time and space', affording them more consciously embodied modes of sensing and seeing."
+  - I recall reading somewhere that Akerman herself used the word "voluptuous" to describe parts of her work, but I can't find the quote now, perhaps it came to me in a dream
+- Another quote she takes from Blackhurst:
+  - "Akerman's luminously spacious films - composed of unencumbered, elongated long takes, decadently static fixed frontal framing, and the non-hierarchical recording of quotidian detail, invite a sensual, haptic, and indeed 'luxurious' re-engagement with the body in an era of acute physical remoteness and virtual reality"
+  - This is an interesting way to consider how "luxury" interacts with Akerman's work, it may be worth hunting down a copy of Blackhurst's book just for the chapter on Akerman
+- She quotes an interview with Akerman:
+  - "For *La Captive*, I worked a lot in interior spaces. The town houses, the cars. Through them, the viewer is projected into a mental universe. At the same time, you escape all psychological explanation. You're just caught in a machine that moves forward."
+  - This appears to be from a 2000 interview with the New York Times, which was published in an [article on Proust adaptations](https://www.nytimes.com/2000/06/11/movies/film-in-search-of-a-way-to-put-proust-s-world-on-film.html).
+  - Smallwood's commentary follows: "This is a machine fuelled by the characters' own desire - to be captive or held, to hold or capture each other. The atmosphere may be sensual but it is also short on oxygen [...] One exits the film with the disquieting sense that we cannot choose to be free. That we are governed and compelled by desires that make us unhappy. [...] And that whatever desire wants, it isn't actually to possess the thing it's chasing."
+    - Very much like the concept of L'objet petit a, in the senses of desire as lack and the object of desire not being the object itself (object-cause of desire rather than object of desire)
+    - Also touches on desiring-machines from Deleuze & Guattari's *Anti-Oedipus*
+  - She notes that Proust doesn't depict Albertine as doomed in quite the same way, and that she is free to leave 
+- "On the one hand, Simon and Ariane's relationship is pathological; on the other, it is a beautiful fantasy about true domestic harmony. All I want is for the people I live with to sleep when I tell them to sleep. To close their eyes and not open them until I say so."
+  - This touches on the relationship between fantasy and control, how the projection of a fantasy can be a way of controlling the world or people around us
+  - Even if a fantasy is "beautiful", it can still be oppressive
+- Smallwood highlights that Ariane finds pleasure in the sleep-humping that Simon does
+  - This is important: several accounts of the film I have read suggest that Ariane is a pure victim to these acts, but I think Smallwood is correct in pointing out the reciprocity at play, and the fact that Ariane is extracting her own value out of what appears to be an act of exploitation and even violence
+- "because Ariane is asleep, she is both easy to possess and can never be entirely possessed"
+  - I like how this quote sums up the way that desire functions in this film, how it is tied to the dual senses of desire for possession and possession as impossible.
+- I enjoy the sidebars about the nature of writing, especially during the early days of COVID-19:
+  - "When writing has occurred one can never say exactly how it happened; it seems to require some amount of disappearing from the experience itself; writing gets done in the absence of the writer."
+- She discusses how Simon is like *In Search of Lost Time*'s Marcel without the genius; if he would never become the man who would one day create a great work of art
+  - "Simon is not transformed or redeemed by art"
+- She discusses a quote from Elstir in *In Search of Lost Time*:
+  - "There is no man, however wise, who has not at some period of his youth said things, or lived a life, the memory of which is so unpleasant to him in later life that he would gladly expunge it. And yet he ought not entirely to regret it [...] We do not receive wisdom, we must discover it for ourselves, after a journey through the wilderness which no one else can make for us, which no one can spare us, for our wisdom is the point of view from which we come at last to regard the world."
+  - She highlights that Proust sees the unique point of view gained through experience *as* art, not just as a contributor to it
+  - "Art is a record of the waste [of time]. It holds the waste, and changes it. Its material is time, and it makes time material."
+    - What a wonderful quote. Extrapolating somewhat: Akerman seems to want us to feel cinematic time in our bodies, thus we also hold a record of her art and let it change us. I hold a record of all the time I have spent with her films.
+- Smallwood highlights a key diversion from the novel, in that the Simon and Ariane's story "lacks the dimension of memory"
+  - "[Simon] is Marcel before he tastes the madeleine"
+- "The continual slippage, for the reader of Proust, between the author and the narrator, [...] means that Akerman not only gives us, in Simon, a non-heroic Marcel; she gives us a non-heroic Proust. She rejects the idea of a lost time redeemed by art. Her work is, by necessity, un- or anti-Proustian: it posits that duration itself can be art. She does not redeem our two hours. She makes us experience their passing."
+  - I wouldn't say that Akerman's work is anti-Proustian *in general*, as she explores desire, memory, and interiority in ways that are very complementary to Proust
+  - The way Smallwood describes "slippage [...] between the author and the narrator" is also very present in Akerman's work, as she often blurs the line between herself and her characters, and between the author and the narrator of her films
+  - In the sense of "redeeming our two hours", though, I do agree that Akerman's films take a different approach to time, where the experience of time itself is the art, rather than the redemption of time through art
+  - You could argue that time experienced deeply *is* a form of redemption in itself
+- "In my dreams writing is a house where I live with my children. I don't want to make something that they can't be part of"
+  - I don't think this has a whole lot to do with Proust or Akerman, but it's very beautiful
+- "Proust, like Akerman, had no children; their work puts forth art as the (queer) alternative to biological reproduction. Whatever else it may be, sleep-humping is non-procreative"
+  - This quote made me laugh, but it's also quite profound in the way that it draws the parallel between breathing children who live in the world, change it and are changed by it; and artworks, which don't breathe, but which can change the world and be changed by it in their own way.
+- Smallwood draws the parallel between unrecoverable, unredeemable time and the Holocaust:
+  - "Of course there could be no redemption for the trauma of the camps"
+  - Perhaps this is at the core of Akerman's interaction with time and what we can make of it: some things are irrevocable, and while art can help us to process and understand them, it cannot redeem them. While the past can be felt here, it is fundamentally gone.
+- She describes the film as "drenched in time", which I think you could apply to most of Akerman's films
+- She also notes how the clothing and objects of the film are displaced in time, as they come from very different periods  
+
+### Chapter 4
+- Smallwood identifies the girls in the opening Super 8 footage as the "young girls in flower" from Proust's novel, who have "more appeal as a group than each does on her own"
+- "Fun is something that by definition excludes Simon, that he intrudes on or interrupts, that he can record but usually ruins"
+  - He is a captive to his self-imposed sadness and outsider status
+- She points out that the footage is accompanied only by the whirring of the projector, introducing the idea that the film will not be focused on realism or reality
+- I love how she describes Simon's eyes: pale, "like the colour has been drained by repeated washings"
+- She notes how Simon says "I like you", to the image of Ariane, yet acts out way more than simply "like"; more obsession
+  - I don't quite follow her next couple of points
+  - She says that the word "like" emphasises "women as representation", that *La Captive* is a "story of fantasies and doublings"
+  - Then she talks about how "like" also suggests Simon's problem with similarity and distance
+  - But then she goes back on all of this because "like" isn't in the film, he says "je vous aime bien"
+  - I guess the point is that sometimes ideas and language can be useful jumping off points for analysis and generating thought, even if they turn out to be not entirely tied to the source; they're more prompts for exploration
+  - She does talk draw the connection between the literal projection occuring and the very Proustian idea of projecting an image of a person onto the real person, which is a comparison well made
+  - I feel like she could have analysed the French that Simon uses rather than the English translation, since the choice of "je vous aime bien" is also interesting:
+    - It conveys a sense of formal distance rather than of intimacy, which aligns with Simon's following of Ariane at a remove, how he can only have sex with her with clothing and sleep between them
+    - Even in privacy, in his fantasy, he doesn't permit himself a full "je t'aime", or even a "je t'aime bien" 
+- She quotes Wittgenstein: "A picture held us captive. And we could not get outside it, for it lay in our language and language seemed to repeat it to us inexorably."
+  - From *Philosophical Investigations*
+- Several comparisons to *Vertigo* are made: the following around, a Hotel pursuit, Ariane's spiral bun in the museum, and, of course Madeleine to Proust's madeline
+  - She pulls in a quote from Alex Ross, discussing the score of *Vertigo*, where he describes it as "music of expectation, which also somehow communicates a visitation from the past"
+  - A "visitation from the past" could hardly be more Proustian if it tried
+- "For Proust, music exists both out there in the world and already within us: the composer discovers a combination of notes that corresponds to our emotional life"
+  - She follows with a Proust quote: "showing us what richness, what variety lies hidden, unknown to us, in that vast, unfathomed and forbidding night of our soul which we take to be an impenetrable void"
+  - From this, she suggests that "it is not Simon who is trapped in the torture chamber of Rachmaninoff, but rather, that Rachmaninoff is trapped in Simon. When he dies, he will take the little phrases of 'Isle of the Dead' with him."
+- "Simon" is apparently derived from the Hebrew for "he who hears", via the Hebrew name "Shimon", related to the root shama (to hear)
+- Smallwood connects the click clacking of Ariane's shoes with those of Anna's in *Le rendez-vous d'Anna* 
+  - Apparently Akerman went to "something like 50" shoe stores in Paris to find ones that would make just the right noise. 
+  - Aurore Clement alleged that Akerman was looking for shoes that would evoke the Holocaust. 
+  - I personally do not understand what of the Holocaust could be represented in the sound of the shoe, but it doesn't sound an uncharacteristic detail to fixate on
+  - Of Ariane's shoes: "there is something deathly in it, like the ticking of a clock. It's the sound of isolation, of tracking, of secret police, of deportation; the sound of noir itself"
+  - This all rings a bit tenuous to me
+  - A couple paragraphs after, Smallwood notes that the sound of the heels is isolated from other background noise, which seems to me a much stronger line of argument for the alienation from one's environment that it evokes
+- She notes that the film never resolves whether or not Ariane knows that Simon is following her. Smallwood doesn't make the connection explicitly, but this ties into the fundamental unknowability of Ariane's interior world
+- She draws on an essay from Lydia Davis, "Hammers and Hoofbeats", which catalogues sounds that Proust would have heard on the streets as a child. Davis posits that these sounds must have worked their way into the rhythm of his sentences, and that he will have heard many more "punctuation noises" than "ambient noises" as we would today
+  - Consider the difference between the hum of a stream of cars vs. the staccato rhythms of a line of horses
+
+
+### Chapter 5
+- The original story has a partition between Albertine and Marcel, which Akerman replaces with frosted glass
+- Smallwood suggests that Simon is allergic to biological reproduction, as pollen is a fertilising agent
+- She quotes psychoanalyst Adam Phillips:
+  - "So if we think of sleep as an experience, it must radically change our sense of what an experience can be; if we think of it as an object of knowledge, it confirms our dependence on others for knowledge as is available; and if we think of sleep as an object of desire [...] we may end up radically redescribing the obscurity of such objects"
+  - From his essay [On Sleep](https://www.threepennyreview.com/on-sleep-2/)
+  - Sleep as an object of desire is a fascinating concept for this film, there's a lot to this quote
+    - Simon relentlessly interrogates Ariane while she is awake to uncover her secret life and past relationships with women, yet he never gets a straight answer. Watching her sleep represents his desperate attempt to extract truth from her body
+    - Ariane's closed eyes shut Simon out of her inner world, reminding him that even when physically trapped in his apartment, her mind remains completely opaque to him.
+  - Smallwood comments that "Sleep must be our original and easily lost experience of an absence that is not a form of waiting"
+- "It could be that Ariane's ability to fall asleep quickly suggests that she does not have trouble satisfying her desires. That she has a way of getting what she wants, even - especially when what she wants is nothing."
+  - This is an important point that a lot of commentary on the film misses: that Ariane is far more in tune with her desires that Simon is. Simon is held captive by his desire; Ariane is not.
+- "One could [...] read what Marcel/Simon does to Albertine/Ariane as rape. [...] But the way Akerman films Ariane's pleasure invites us to see it not as an act of violence, but as Ariane's own fantasy - gratification without effort."
+  - This is so true, and one should not read this as rape apologism or anything of the sort. It is a complex situating of desire and agency
+- "Who has the greater power here - the one who can command sleep, or the one who can achieve it?"
+  - This also a great quote that correctly posits that the power relations between Ariane and Simon are not as simple and hierarchical as a surface reading would imply
+- "Sleep annihilates time"
+  - This brings to mind Akerman's thoughts about time flying when watching certain films. One could say that the art in such cases is not redeeming the time, but annihilating it
+
+### Chapter 6
+- "In the novel, Marcel's Grandmother is dead by the time of the events of *The Prisoner* and his mother is in mourning. In *La Captive*, Akerman eliminates the mother and resurrrects the grandmother."
+  - Smallwood notes that Akerman usually does not shy away from involving the mother in the erotic, e.g. in *Tomorrow We Move*'s mother-daughter sharing of erotic words, in the bedroom scene of *Les rendez-vous d'Anna*
+- She quotes J. Hoberman: "[*La captive* is] a great negative love story and so in a sense is *No Home Movie*. As Simon interrogates Ariane, so (far more gently) Chantal questions her mother, and as Ariane leaves Simon, so (with a terrible finality) Nelly will leave her daughter. And then Chantal left us."
+  - Oof, this quote made me a bit emotional
+  - The quote is from the article [Motherless Brussels: Notes on Chantal Akerman's *No Home Movie*](https://www.tabletmag.com/sections/arts-letters/articles/chantal-akermans-no-home-movie)
+  - "Negative love story" is a great way to describe *La captive*
+- "Perhaps Akerman's experiments with time across her work, the way she slows time to a crawl, feeling each second and taking its measure, is an attempt to get enough."
+  - This is a beautiful and bittersweet quote
+- "The last grandmother in *Dis-moi* is the same type as Proust's. She makes it difficult to say goodbye. [Akerman sleeps, the grandmother wakes her.] The grandmother should have let Akerman sleep. Once she is awake, she stands up. She leaves [...]. Maybe she was pretending to sleep. [...] In any case, the spell is broken."
+  - This recalls Ariane's awakening granting her the ability to get up and walk away, how, in having her asleep, Simon attempts to control her and satiate his desire
+- She closes the chapter with "And where, for the last time, is his mother?"
+  - I hadn't quite appreciated the strangeness of eliding the mother from the story until reading this chapter, but yes, given the centrality of the mother in both Proust and Akerman's work, it is a very destabilising omission
+  - The mother is a home, a creator of desire
+  - Without the mother, Simon is left with no real home, and his desire is unanchored
+
+### Chapter 7
+
+- "A mystery can be solved - by a detective, a lover, or a critic. But according to Akerman, a secret can, or should, never be revealed. The secret of a character - what is happening in her mind and in her heart - is known only to the actor who portrays her, so the actor must act in a way that implies the existence of the secre but does not reveal its content. [...]. There must be something that the viewer can't have. That something is what captivates them, holds them captive."
+  - This, she exegetes from her interview "Getting Ready for the Golden Eighties: A Conversation with Chantal Akerman", which I quote elsewhere in my notes, particularly this piece:
+    - "People were a little bit angry at me because of the murder at the end of Jeanne Dielman . . . She does it and then she sits for seven minutes. And then you don't understand her. You will never. I hope you never will—that's the strength of the film. You will never know what is happening in her mind and in her heart. I don't know either. It's the secret of Delphine Seyrig, not the character she's playing. It's not Jeanne Dielman's secret, it's Delphine's secret."
+  - This really neatly criticises Simon's relationship to interiority, and how he is in direct conflict with Akerman: he seeks to know and control the inner life of others, whereas Akerman insists on the unknowability of her characters' inner lives.
+  - Akerman clearly identifies more with Ariane, who says (and this is quoted later in the next chapter):
+    - "I love you because there's a part of you I don't know. I imagine you've this world I cannot enter. It intrigues me. That it's closed to me only pleases me."
+- "Life with Albertine brings Marcel boredom and pain. We never see Simon bored. This must be because of the secret, the singular something that only Testud knows about Ariane. [...] It's all stupid and hopeless, because without Ariane's secret [...] Simon would lose all interest."
+  - Ariane is not the object of desire, she is the object-cause of desire
+  - If Simon totally obtained her, the *agalma* would vanish and his desire would simply pick a new target, or rather, his desire would be produced by some other object
+- She quotes Anne Carson's poem "The Albertine Workout":
+  - "There are four ways Albertine is able to avoid becoming entirely possessable [...]: by sleeping, by lying, by being a lesbian, or by being dead."
+  - Smallwood suggests that Akerman adds a fifth: making art
+  - To support this, she looks at the scene where Ariane sings off-pitch out of the window in a duet with the woman across the street
+  - (I adore that scene, one of my favourite moments in all of Akerman's filmography)
+  - She notes that the neighbour is singing the same song that Ariane was practicing one morning, Mozart's *Così fan tutte*
+  - She suggests that it is highly improbably that the neighbour would just happen to be singing the same song, and there's no evidence that the neighbour is connected to Ariane, so the implication is that the sequence must be "a fantasy, the return of the repressed, a dream"
+    - This is not a reading that I had considered, I saw it as a concrete moment in the film's diegesis
+    - Rewatching the scene, I can see how one could read it is this way, but I think the improbability of the coincidence is not enough to make it a fantasy
+    - That said, the "making art as a fifth way to avoid being possessed" is a point that interacts with some of the details of the scene:
+      - Ariane is singing off-pitch, whereas the neighbour is clearly trained and singing in tune
+      - However, Ariane's balcony is free and open, whereas the neighbour is singing from a window covered by steel bars, which is a very interesting contrast
+      - The neighbour is singing in a very controlled and disciplined way, whereas Ariane is singing in a more free, unpolished form
+      - You could read the constraints of classical formalism as a kind of captivity; a self-consciousness that is imposed by the rules of the art form, whereas Ariane's singing is unencumbered, a kind of liberation
+      - To draw this back to Smallwood's original point, you could say that it's not making art in itself that is the fifth way to avoid being possessed, but rather the act of making art in a way that is free and unencumbered by rules and constraints
+    - Simon is watching them from below, seemingly without their noticing. He is physically and emotionally shut off from their shared moment.
+    - She doesn't mention the fact that *Così fan tutte* is a story about two men testing the fidelity of their lovers, which is a clear parallel to the story of *La captive*
+    - Smallwood does make a great connection between Akerman's untrained, unpolished singing performance in *Les Années 80* (also a scene that I adore) and Ariane's, and how it's not a particularly "good" performance, "but the main appeal of her singing is how we glimpse her personality through it. [...] This is also how Testud sings as Ariane. She is just untrained enough. [...] By failing to be great singers, Akerman and Ariane gesture at what greatness might be."
+- Although Simon is a writer and Ariane is clearly not the most technically accomplished artist, Smallwood says "Ariane, not Simon, is Akerman's model of the artist. Ariane the singer, not Simon the writer. She is the artist as student, as hobbyist, as dilettante, as liar."
+- "To not know what we are missing, but to know that we are missing something, is a special kind of torture."
+- "*La captive* is not an argument that lesbianism is superior to heterosexuality"
+  - Just like *Je, tu, il, elle*
+
+### Chapter 8
+- "Could perhaps Ariane once in a while ask Simon what he is thinking. Could she, now and again, feign interest in his dreams? (The brutality of 'I ask you nothing'!)"
+  - Hm, perhaps the "perfect" does lie somewhere in the middle, between Ariane's contentment with complete opacity and Simon's total rejection of it. But I think the point is that Ariane's happiness is a more sustainable and healthy position than Simon's. Even if Ariane is maybe not interacting with the relationship in the way that Simon would want, she isn't captive to her desire in the way that Simon is, and is able to find fulfillment in her own way.
+- "Ariane, *à rien*" 
+  - There's a few layers here: Ariane being content with nothing, Ariene being filled with nothing, Ariane being a representation of lack, void
+- "Isn't the point that Simon is the prisoner - that *he's* the one who can't leave"
+  - I think yes and no: to me, the core of the film is not just that "Simon is actually the captive", but that it forces us to wrestle with the ways in which the two of them interact with the concept of captivity
+- "The first year I was writing this essay I thought that the viewer could never know whether Ariane went into the ocean intending to die or not - that the ending was designed to put the viewer in the same paranoid position as Simon, to give us the feeling of wanting and being unable to know the truth. But I don't think that anymore. Now I think that Ariane isn't trying to die at all; she just wants to get away from Simon. [...] But Akerman won't let her be free any more than she will let Simon be innocent. Akerman may not want to kill Ariane so much as she wants to implicate Simon."
+  - I think this is an interesting perspective, but I find myself more closely aligned with Smallwood's earlier interpretation
+  - I think the first interpretation runs more in tandem with the themes of the film, and that it implicates our own desires as viewers with those of Simon, and makes us question how we project our desires onto art, as well as elsewhere in our lives
+  - The second feels a bit like making Ariane into a simple plot device through which to explore Simon's actions and psyche, rather than a fully realised character in her own right
+  - Of course, Akerman could be doing this in a kind of ironic way, emptying Ariane of her own agency to make a point about Simon's desire and the way that it is projected onto her, but I think that the first interpretation is more in line with Akerman's general approach to characterisation and interiority.
+  - Maybe in a year I too will align with Smallwood's second version
+- "The ocean will cover Ariane completely. [...] Simon, the writer who can't write, does not redeem her death."
+  - I *love* this taking the idea of art as redemption of time from earlier in the essay, and turning it back on Simon to show how his art, his desire is impotent
+- Of the final shot in the film of Simon coming in on the boat: "Akerman seems to be reversing the last shot of *News from Home*"

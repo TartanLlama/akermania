@@ -1,0 +1,51 @@
+- I read the chapter "Mistresses of Discrepancy", which focuses *Je, tu, il, elle* and Ulrike Ottinger's *Ticket of No Return*
+- Begins with reference to Dorothy Arzner, who worked within the Hollywood studio system in the golden age
+- Considers female friendship and lesbian marginality
+- Argues that, while some lesbian autobiographical filmmakers, like Diane Kurys, have their self-representation "wrapped in a fiction of the author that is totally compatible with the fictions of narrative cinema" whereas Akerman appears "in ways that expose and undermine those fictions, not only because of the explicit lesbian desire which defines the relationship of [Akerman to her film text], but more specifically because of how that desire is represented, through the exposition of pain, narcissism, infantilism, and neediness"
+- A curious and almost completely irrelevant detail is that Mayne says that Akerman is eating "powdered sugar", whereas I almost always see it referred to as "granulated sugar"
+- Mayne suggests that the three shots that constitute the sex sequence in the final act "reflect in miniature the three-part structure of the film".
+  - I'm not sure I entirely buy this
+  - The three shots are: 
+    - Rolling around in a somewhat violent, animalistic manner
+    - Slow, sensuous kissing
+    - Oral
+  - I certainly see how the third part mirrors the eating sequence that directly preceeds the sex scene, but the first two parts seem less clearly connected to me
+  - Regardless, it's an interesting observation. I guess one could see the rolling around, the "friction" as the friction that "Julie" feels against her place in life and her own body in the first segment. I would hardly describe the second act as like sensuous kissing though.
+- "Lesbian representation highlights contradiction in particularly strong ways, for lesbianism is both lure and threat for patriarchal culture as well as for feminism, and it challenges a model of signification in which masculinity and activity, femininity and passivity, are always symmetrically balanced."
+  - Points to the rejection of binaries in sexuality and gender in their political dimension
+- "In [...] Je tu il elle, heterosexual and lesbian attachment are baldly juxtaposed in relation to an 'I' whose speaking self is somewhat detached from her corporeal self, a bodily presence marked by the intertwining activities of eating and writing."
+  - Or in other words, the film is about the tension between the body and the mind, and how desire is expressed through a sexuality that is itself detached from strict conceptions
+- I really like the way she describes the de-subjectification of the sex scene, how there is no "marked place for the spectator":
+  - "However, throughout all three of these shots, little separates the initiator from the recipient; little, that is, isolates active subject from passive object. The representation of the lovemaking departs absolutely from the codes of pornography, so that there is no cutting from 'subject' to 'object,' no isolation of a breast or genitalia as the fetishized object, no simulation of sexual frenzy. If neither Akerman nor the lover can be situated neatly within the pole of subject or object, in other words, neither is there a clearly marked place for the spectator."
+- Mayne also touches on the anti-pornographic presentation of the scene.
+- She suggests that the way the trucker looks at the camera after coming is a way of acknowledging that Akerman the actor and Akerman the director are one and the same. She goes on to discuss the dual nature of Akerman as object and Akerman as subject.
+- She touches on the film's preoccupation with internal vs external spaces, and thresholds
+  - Clearly the room from the first section is an internal (interior) space, one that Akerman/Julie constructs
+  - Mayne suggests that the truck has elements of interiority, such as the connection to the first part with Julie sleeping there
+  - But the truck is less clear, as it is unclear what is "part of Akerman's spoken reality [...] and what is more properly associated with the realm of a separate, public sphere"  
+  - "She takes off her clothes, submitting her body to the same process of unmasking as the room."
+- The ideas about control over a space is interesting: how Akerman/Julie shifts between different amounts of authorship/control over the physical places she inhabits
+  - "Akerman is defined both as contained by—and occasionally even imprisoned by—the space that surrounds her, and as a powerful controller of that space."
+  - Mayne argues that "in the first [part] Akerman seems more contained by her surroundings, and in the last she exercises more control over them"
+  - I disagree with this. I think that in the first part, she is in control of her space is as much as she reconfigures it to represent her interiority. In the last part, she is a guest, and only for some time (as she explicitly says she will be leaving in the morning).
+  - Mayne thinks that the second part is somewhere in-between, which I'm also not sure I agree with, as she is in a very transitory space that is not of her design
+  - She also discusses the primary female gendering of the space in the first segment, by way of Lacan's symbolic order:
+    - "[the film evokes] a female world that exists prior to or outside the realm of the symbolic order, an order determined by the regulation of the body and the simultaneous economy of the family and the word"
+- Pushes against the conception that this film represents heterosexuality as a poor substitute for lesbianism, and doesn't fall into the trap of "heterosexuality = bad, lesbian = good"
+  - She rather sees the film as tracing a process of departure, isolation, and return as a trajectory of desire
+  - Of course, coupled with other readings of the film as cyclical, this would suggest that desire has a cyclical nature
+- Looks at "orality" in the senses of eating, speaking, and sex
+  - Desire is expressed through these three forms of orality, and the film is structured around them
+  - Mayne draws on the historical labeling of lesbianism as a mental disorder caused by "arrested development."
+  - These old clinical theories claimed that a lesbian's adult desire was actually a childish, "regressive" urge to fuse with the maternal figure.
+  - The earliest bond with a mother is oral (feeding), which connects to the film's heavy use of food
+  - Of course, we know that Akerman is deeply connected to her mother
+  - Instead of viewing this "regressive" oral bond as a sickness, Akerman flips it into a source of female power.
+  - "This affirmation of female subjectivity in the cinema occurs in several ways: through the connections between different forms of orality (eating, speech, sex), and between the literal and the figurative; through a movement back and forth from the positions of spectator to actor to writer; and through a series of resonances whereby the desire of the woman is linked to those of the child and the adult, to the desire to see and to be seen, to the desire to speak and to write."
+- She notes that she has said the film does not exactly fit as a "lesbian film", but also acknowledges the general difficulty in naming the film, in spite of the film being centrally concerned with naming/identity
+  - "Je tu il elle and Ticket of No Return are less concerned with affirmative representations of lesbian experience than with explorations of the simultaneous ambivalence and pressure of lesbianism with regard to the polarities of agency and gender."
+- On the identity behind the pronoun "tu", Mayne says that virtually all of the subjects in the film occupy it at some point, but notes that in the first section, there is only one literal reference to this pronoun:
+  - "When I lifted my head suddenly, there were people walking in the street. I still waited for them to leave or for something to happen. For me to believe in God or for you [tu] to send me a pair of gloves so I could go out in the cold"
+- She has a very interesting note on the fact that "tu" is also the past participle of the verb "se taire" (to make oneself silent):
+  - "The eighth or ninth day, I started the second letter over again, and I ate a lot of powdered sugar for eight pages. And I crossed out...marked out...a few lines remained. I stopped eating and kept quiet [je me suis tu]."
+- "one could hardly find a contemporary woman's film more saturated with authorial signature than Je tu il elle"
