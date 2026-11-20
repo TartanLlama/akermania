@@ -1,9 +1,9 @@
 ### Chapter 1 
 - "She did not reread [The Prisoner] before writing the screenplay, but later went back to fill in details, so that the film floats free of the novel while also being dense with references."
 - "If Proust is a fever dream, a tangle of language to lose one's way inside of, Akerman's project is to make us wait, holding us on the threshold, listening for footsteps coming down the corridor"
-- "She notes the similarity between Ariane and Ariadne from Greek mythology"
+- She notes the similarity between Ariane and Ariadne from Greek mythology
 - "Akerman was drawn to hotels, trains and stations, unpopulated landscapes—waiting places that could be filled up with time"
-- "Notes how Akerman rejected the idea that she depicted 'real time', rather 'hyperreality' or 'my time'"
+- Notes how Akerman rejected the idea that she depicted 'real time', rather 'hyperreality' or 'my time'
 - Rosenbaum said "there are few important contemporary filmmakers whose range is as ruthlessly narrow as Akerman's, formally and emotionally": this seems waaaaay off
   - I feel like usually anyone who tries to reduce Akerman to a single stylistic or thematic concern is just betraying their lack of familiarity with her work (not the case for Rosenbaum, but I still think it's a reductive statement)
   - He also suggested her cinema be summarised as "the discomfort of bodies in rooms" or "the discomfort of bodies in shots"
