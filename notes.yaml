@@ -46,7 +46,7 @@ bibliography:
     publisher: Silver Press
     tags:
       - Chantal Akerman
-  - title: 'Nothing Happens: Chantal Akerman''s Hyperrealist Everyday'
+  - title: "Nothing Happens: Chantal Akerman's Hyperrealist Everyday"
     author: Margulies, Ivone
     year: 1996
     publisher: Duke University Press
@@ -64,12 +64,50 @@ bibliography:
     publisher: Legenda
     tags:
       - Chantal Akerman
-  - title: 'A Tree in the Wind: Chantal Akerman''s Later Self-Portraits in Installation and Film'
+  - title: "A Tree in the Wind: Chantal Akerman's Later Self-Portraits in Installation and Film"
     author: Flitterman-Lewis, Sandy
     in: afterlives
     pages: 13-25
     tags:
       - Chantal Akerman
+    films:
+      - D'Est
+      - La-bas
+      - No Home Movie
+    notes: |
+      - "[The themes she explores] radiate from Akerman's central project of continually defining and communicating her complex and contradictory self, a self profoundly embedded in history and intensely cognizant of contemporary realities, especially those impacting on her life as a Jewish woman."
+      - "*No Home Movie* and *La-bas* are also the films that most reflect an inner subjective core at one with a landscape that Akerman doesn't wholly own"
+        - Hmmmmmmmm
+        - Hmmmmmmmmmmmmm
+        - Hmmmmmmmmmmmmmmmmmmmmmmmmmmm
+        - Yeah, I think this is true
+      - "Akerman has stated her preference for installation art because it is more direct, more expressive of her sense of self-in-relation, and more evocative of the intersections of the personal and the social."
+      - She says Akerman's installations "absorb their viewers in a palpable experience of emotional time"
+        - Beautiful quote
+      - In her later work she "finds new ways to articulate the unspeakable, to philosophise absence, and to explore the depths of the ever-present unseen"
+      - She knotes Cecile Chich: "Chantal's films are always about the unfathomable void which is the mark of her mother's direct experience of the Holocaust"
+        - Absolutely correct
+        - This is from a private conversation with Cecile Chich, I can't find any written record for it
+      - "While many of Akerman's early films [...] contain oblique references to the psychic wound of the Shoah, she does not specifically treat it literally until the question emerges in the space between film and installation begun with the due D'Est (1993) and D'Est: au bord de la fiction (1995)"
+        - This doesn't seem right to me
+        - I would argue that *Les Rendez-vous d'Anna* is a very fairly direct engagement with the "psychic wound of the Shoah", as some of the characters note its impact on them - sure, obliquely, but I think that with the direct motivation of the textual reference, the effects of the Holocaust on that film are more literal than suggested here
+        - If not *Les Rendez-vous d'Anna*, then *Dis-moi* absolutely engages literally with it, going so far as to have interviews with people who speak explicitly about their family members being gassed at Auschwitz.
+      - Of *American Histories*, Bérénice Reynaud says "[this] is a film of phantoms, filmed in a phantom city, that confronts [...] the symbolic work of death [...] trying to answer the essential question of our time: 'how can one make cinema after Auschwitz?'"
+        - This is in an essay published alongside Akerman's *Autoportrait en cinéaste*
+      - Flitterman-Lewis suggests that Akerman's installation *Au bord de la fiction* pairs the footage of *D'Est* with a "meditation on the (largely unanswered) questions of both Jewish identity and the Shoah", which imbues the earlier footage with a new significance.
+        - Later in the essay, she explains how the installation consists of 24 screens showing elements of *D'Est*, with an additional 25th screen in a separate room where Akerman reads the 2nd commandment (Bilderverbot), and includes personal reflections:
+        - "Yesterday, today, and tomorrow, there were, there will be, there are right now, even, people that history (without a capital H) comes to strike. People who are there, rounded up in herds, waiting to be killed, hit, or starved; people who walk without knowing where they're going, in a group or alone."
+      - Of *D'est*, she says: "The film itself literally retraces in reverse direction [...] the migration of the Jews as they fled westward from the violence of pograms and anti-Semitic riots."
+      - Of *Au bord de la fiction*: "without ever stating it explicitly, in this installation Akerman's virtual confession evokes the Shoah, whose implicit presence in the film must await the *performance* of this intimate and specific anxiety to gain its meaning"
+        - I don't think that's necessarily the case. Of course it strengthens the connection, but Akerman's work had referenced the Shoah in various ways prior to this installation, it has always been on the edges of the text of her films, and of course suffuses the subtext. But even from those edges of text, we can still interpret and engage with the Holocaust's impact on her work meaningfully without the necessity of this particular performance.
+        - Golden Eighties came out several years before this installation, and is another example of a work that contains both subtle textual references to the Holocaust and deep engagement with its lingering effects in its construction and the psyches of the characters.
+      - She quotes from Schmid's book:
+        - "*"D'Est* is arguably Chantal Akerman's most complex and representative work on time, space and memory. Expanding traditional boundaries of the documentary with her stylized images bordering on fiction and letting echoes of the past haunt her portrait of the present, the director creates a multi-layered work which collapses past, present and future into. a hallucinatory vision; a work replete with memory, but which eschews explicit commemoration and one which, through its haunted images of destitution, warns of humanity's fragility before the vagaries of History"
+        - I love this quote, especially "collapses past, present and future into a hallucinatory vision", which seems related to some of Walter Benjamin's ideas on history and memory, particularly his notion of the "dialectical image" 
+        - This reminds me of the concept of a "lieu de mémoire", which refers to a site that acts as a container of memory, but it is very much in the sense of commemmoration, even state-sanctioned commemoration, which I feel takes some power away from the concept. Schmid's not about avoiding commemoration is a key one, as these landscapes evoke a more full, haunting engagement with memory that is not confined to official narratives.
+      - She goes on to discuss Akerman's final installation, *NOW*:
+        - TODO
+
   - title: Moeder, Maman, Mom
     author: Mavor, Carol
     in: afterlives
@@ -82,13 +120,13 @@ bibliography:
     pages: 41-53
     tags:
       - Chantal Akerman
-  - title: 'Ageless: Akerman''s Avatars'
+  - title: "Ageless: Akerman's Avatars"
     author: Chamarette, Jenny
     in: afterlives
     pages: 54-65
     tags:
       - Chantal Akerman
-  - title: 'Real Estates: The Comedy of Spaces and Things in Chantal Akerman''s Demain on déménage'
+  - title: "Real Estates: The Comedy of Spaces and Things in Chantal Akerman's Demain on déménage"
     authors:
       - D'Haeyere, Hilde
       - Jacobs, Steven
@@ -108,19 +146,19 @@ bibliography:
     pages: 90-101
     tags:
       - Chantal Akerman
-  - title: 'Texas (is not Paris) is Burning: The Drag of Dis/Orientation in Chantal Akerman''s Sud'
+  - title: "Texas (is not Paris) is Burning: The Drag of Dis/Orientation in Chantal Akerman's Sud"
     author: Mayer, So
     in: afterlives
     pages: 102-114
     tags:
       - Chantal Akerman
-  - title: 'Vocal Landscapes: Framing Mutable Stories in De l''autre côté (2002) and Une voix dans le désert (2002)'
+  - title: "Vocal Landscapes: Framing Mutable Stories in De l'autre côté (2002) and Une voix dans le désert (2002)"
     author: Fox, Albertine
     in: afterlives
     pages: 115-126
     tags:
       - Chantal Akerman
-  - title: '''Like a Musical Piece'': Akerman and Musicality'
+  - title: "'Like a Musical Piece': Akerman and Musicality"
     author: Roberts, Adam
     in: afterlives
     pages: 127-138
@@ -197,7 +235,7 @@ bibliography:
     films:
       - Je, tu, il, elle
     notes_file: notes/the-fourth-person-singular-je-tu-il-elle.md
-  - title: 'Women at the Keyhole: Feminism and Women''s Cinema'
+  - title: "Women at the Keyhole: Feminism and Women's Cinema"
     author: Mayne, Judith
     publisher: Indiana University Press
     year: 1990
@@ -352,7 +390,7 @@ bibliography:
       - Chantal Akerman
     films:
       - News from Home
-  - title: 'Clichés of Identity: Chantal Akerman''s Musicals'
+  - title: "Clichés of Identity: Chantal Akerman's Musicals"
     author: Shaviro, Steven
     in:
       title: Quarterly Review of Film and Video
@@ -373,7 +411,7 @@ bibliography:
     url: https://www.lrb.co.uk/the-paper/v48/n05/daniella-shreir/my-mother-s-prison
     tags:
       - Chantal Akerman
-  - title: 'Veil the Transparent Vision: From Lacanian Registers to the Images of Chantal Akerman'
+  - title: "Veil the Transparent Vision: From Lacanian Registers to the Images of Chantal Akerman"
     author: Wei, Boyang
     in:
       title: Proceedings of the 3rd International Conference on Education, Language and Art (ICELA 2023)
@@ -382,7 +420,7 @@ bibliography:
     pages: 579-589
     tags:
       - Chantal Akerman
-  - title: 'Vertigo of presence: Chantal Akerman''s NOW, nomadic dwelling and the ''war machine'' within the context of contemporary moving image works'
+  - title: "Vertigo of presence: Chantal Akerman's NOW, nomadic dwelling and the 'war machine' within the context of contemporary moving image works"
     author: Thoma, Andrea
     in:
       title: Journal of Visual Art Practice
@@ -392,7 +430,7 @@ bibliography:
     pages: 179-201
     tags:
       - Chantal Akerman
-  - title: '''A Pedagogy of the Image'': Chantal Akerman''s Ethics Across Film and Art'
+  - title: "'A Pedagogy of the Image': Chantal Akerman's Ethics Across Film and Art"
     author: Rennebohm, Kate
     in:
       title: The Moving Image Review & Art Journal
@@ -402,7 +440,7 @@ bibliography:
     pages: 40-53
     tags:
       - Chantal Akerman
-  - title: 'Chantal Akerman''s Là-bas: the suspended image and the politics of anti-messianism'
+  - title: "Chantal Akerman's Là-bas: the suspended image and the politics of anti-messianism"
     author: Nigianni, Chrysanthi
     in:
       title: Senses of Cinema
@@ -421,7 +459,7 @@ bibliography:
     tags:
       - Chantal Akerman
       - interview
-  - title: 'A Nothing: The potential for a feminist psychoanalysis of Chantal Akerman''s La Captive'
+  - title: "A Nothing: The potential for a feminist psychoanalysis of Chantal Akerman's La Captive"
     author: Blondin-Doan, Emily
     in:
       title: Journal of Undergraduate Studies at Trent (JUST)
@@ -431,13 +469,13 @@ bibliography:
     pages: 46-55
     tags:
       - Chantal Akerman
-  - title: 'The Generation of Postmemory: Writing and Visual Culture After the Holocaust'
+  - title: "The Generation of Postmemory: Writing and Visual Culture After the Holocaust"
     author: Hirsch, Marianne
     year: 2012
     publisher: Columbia University Press
     tags:
       - postmemory
-  - title: 'Jacques Lacan: The Basics'
+  - title: "Jacques Lacan: The Basics"
     author: Neill, Calum
     year: 2023
     publisher: Routledge
@@ -462,7 +500,7 @@ bibliography:
     translator: Holmes, Brian
     year: 1995
     publisher: Dis Voir
-  - title: 'Third-Generation Voices: Memory and Identity in the Palestinian Diaspora'
+  - title: "Third-Generation Voices: Memory and Identity in the Palestinian Diaspora"
     author: Sheets, Kristine
     year: 2024
     in:
@@ -616,7 +654,7 @@ bibliography:
       - He believed that avant-garde neo-documentary was the only truly revolutionary filmmaking practice
       - Like Akerman, he denied a purely objective truth, and instead focused on the viewer's subjectivity, unsettling their habitual perception, and implicating them in the construction of meaning
       - The sections on Vertov and Godard would also be relevant, but I find the connection to Matsumoto more compelling
-  - title: 'In Search of Lost Time: The Way by Swann''s'
+  - title: "In Search of Lost Time: The Way by Swann's"
     author: Proust, Marcel
     translator: Davis, Lydia
     year: 2003
@@ -680,3 +718,4 @@ themes_and_concepts:
   - name: jouissance
   - name: acting out
     definition: Actions taken by a subject in the grip of their unconscious wishes and fantasies
+  - name: traumascape
