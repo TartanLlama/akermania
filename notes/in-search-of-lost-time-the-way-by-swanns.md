@@ -46,3 +46,5 @@
 - "[none of those engravings evoke] the feeling that makes us not consider a thing a spectacle, but believe in it as in a creature without equivalent, none of them holds in subjection an entire profound part of my life"
 - "You have a lovely soul, of a rare quality, an artist's nature, don't ever let it go without what it needs"
 - "she had taken some insignificant remark of my father's, had worked it delicately, turned it, given it a precious appellation, and enchasing it with one of her glances of the finest water, tinged with humility and gratitude, had given it back changed into an artistic jewel, into something 'completely exquisite'"
+- "The kitched-maid was an abstract entity, a permanent institution whose invariable set of attributes assured her a sort of continuity and identity, through the succession of temporary forms in which she was incarnated."
+  - TODO more
