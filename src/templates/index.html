@@ -5,45 +5,84 @@
     <title>Akermania</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,400;0,600;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
     <main>
-        <h1>Akermania</h1>
-        <h2>A Chantal Akerman Annotated Bibliography</h2>
-        <p>My living memory of Chantal Akerman's work, including notes, quotes, themes, and concepts.</p>
-
-        <div class="search-wrap">
-            <label for="search">Search</label>
-            <div class="search-row">
-                <input id="search" type="search" placeholder="Search titles, authors, notes, quotes...">
-                <button id="clear-filters" type="button" class="clear-button">Clear filters</button>
+        <header class="site-intro">
+            <div class="intro-copy">
+                <h1>Akermania</h1>
+                <h2>A Chantal Akerman Annotated Bibliography</h2>
+                <p>My living memory of Chantal Akerman's work, including notes, quotes, themes, and concepts.</p>
             </div>
-        </div>
+            <figure class="hero-still">
+                <img src="./images/je-tu-il-elle.jpg" alt="Chantal Akerman sitting by a window in Je, tu, il, elle" width="1200" height="675">
+                <figcaption><cite>Je, tu, il, elle</cite> (1974)</figcaption>
+            </figure>
+        </header>
 
-        <div id="tags">
-            <h3>Tags</h3>
-            {{tags}}
-        </div>
-        <div id="films">
-            <h3>Films</h3>
-            {{films}}
-        </div>
-        <div id="bibliography">
-            <h3>Bibliography</h3>
-            <div class="bibliography-actions">
-                <button id="expand-all" type="button" class="clear-button">Expand all</button>
-                <button id="collapse-all" type="button" class="clear-button">Collapse all</button>
+        <div class="content-layout">
+            <button type="button" class="filter-toggle" aria-label="Open search and filters" aria-controls="filters" aria-expanded="false">&#8250;&#8250;</button>
+            <div class="filter-backdrop" hidden></div>
+            <aside id="filters" class="filters" aria-label="Search and filters">
+                <button type="button" class="filter-close">Close filters</button>
+                <div class="filter-sidebar">
+                    <div class="filter-controls" role="region" aria-label="Filter controls" tabindex="0">
+                        <div class="bibliography-actions">
+                            <button id="expand-all" type="button" class="clear-button">Expand all</button>
+                            <button id="collapse-all" type="button" class="clear-button">Collapse all</button>
+                            <button id="clear-filters" type="button" class="clear-button">Clear filters</button>
+                        </div>
+                        <div class="search-wrap">
+                            <input id="search" type="search" placeholder="Search bibliography">
+                        </div>
+
+                        <div id="tags" class="filter-group">
+                            <h3>Tags</h3>
+                            {{tags}}
+                        </div>
+                        <div id="films" class="filter-group">
+                            <h3>Films</h3>
+                            {{films}}
+                        </div>
+                    </div>
+                    <div class="filter-scrollbar" aria-hidden="true" hidden>
+                        <div class="filter-scrollbar-thumb"></div>
+                    </div>
+                </div>
+            </aside>
+            <div class="content">
+                <div class="section-tabs" role="tablist" aria-label="Sections" hidden>
+                    <button id="bibliography-tab" type="button" role="tab" aria-controls="bibliography" aria-selected="true">Bibliography</button>
+                    <button id="concepts-tab" type="button" role="tab" aria-controls="themes-section" aria-selected="false" tabindex="-1">Concepts</button>
+                    <button id="films-tab" type="button" role="tab" aria-controls="filmography" aria-selected="false" tabindex="-1">Films</button>
+                </div>
+                <div id="bibliography" role="tabpanel" aria-labelledby="bibliography-tab" tabindex="0">
+                    <h2>Bibliography</h2>
+                    <div id="results-count" class="section-count" aria-live="polite"></div>
+                    {{bibliography}}
+                </div>
+                <div id="themes-section" role="tabpanel" aria-labelledby="concepts-tab" tabindex="0">
+                    <h2>Themes &amp; Concepts</h2>
+                    <div class="section-count">{{concepts_count}}</div>
+                    {{themes}}
+                </div>
+                <div id="filmography" role="tabpanel" aria-labelledby="films-tab" tabindex="0">
+                    <h2>Films</h2>
+                    <div class="section-count">{{filmography_count}}</div>
+                    {{filmography}}
+                </div>
             </div>
-            <div id="results-count" aria-live="polite"></div>
-            {{bibliography}}
-        </div>
-        <div id="themes-section">
-            <h3>Themes &amp; Concepts</h3>
-            {{themes}}
         </div>
     </main>
+
+    <footer class="site-footer">
+        <p>Original content is dedicated to the public domain under <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>.</p>
+    </footer>
 
     <script src="./app.js"></script>
 </body>

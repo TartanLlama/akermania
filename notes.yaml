@@ -1,3 +1,62 @@
+films:
+  - title: Saute ma ville
+    year: 1968
+    tags: []
+    notes: ""
+  - title: The Beloved Child, or I Play at Being a Married Woman
+    year: 1971
+    tags: []
+    notes: ""
+  - title: Hotel Monterey
+    year: 1973
+    tags: []
+    notes: ""
+  - title: Je, tu, il, elle
+    year: 1974
+    tags: []
+    notes: ""
+  - title: Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
+    year: 1975
+    tags: []
+    notes: ""
+  - title: News from Home
+    year: 1976
+    tags: []
+    notes: ""
+  - title: Les rendez-vous d'Anna
+    year: 1978
+    tags: []
+    notes: ""
+  - title: Dis-moi
+    year: 1980
+    tags: []
+    notes: ""
+  - title: D'Est
+    year: 1993
+    tags: []
+    notes: ""
+  - title: Portrait of a Young Girl
+    year: 1994
+    tags: []
+    notes: ""
+  - title: La captive
+    year: 2000
+    tags: []
+    notes: ""
+  - title: Tomorrow We Move
+    year: 2004
+    tags: []
+    notes: ""
+  - title: La-bas
+    year: 2006
+    tags: []
+    notes: ""
+  - title: No Home Movie
+    year: 2015
+    tags: 
+      - motherhood
+    notes: ""
+
 bibliography:
   - title: La Captive
     author: Smallwood, Christine
@@ -199,19 +258,6 @@ bibliography:
     ref: identity-memory
     tags:
       - Chantal Akerman
-  - title: Josephine the Singer, or the Mouse Folk
-    author: Kafka, Franz
-    in:
-      title: The Complete Stories
-      year: 1971
-      publisher: Schocken Books
-    pages: 360-376
-    tags:
-      - Franz Kafka
-      - unread
-    notes: |
-      - I have not read this yet, but the essay "The Fourth Person Singular (Je Tu Il Elle)" by Jean Narboni references it and I loved the quote he uses from it:
-        - "To crack a nut is truly no feat, so no one would ever dare to collect an audience in order to entertain it with nut-cracking. But if all the same one does do that and succeeds in entertaining the public, then it cannot be a matter of simple nut-cracking. Or it is a matter of nut-cracking, but it turns out that we have over-looked the art of cracking nuts because we were too skilled in it and that this newcomer to it first shows us its real nature, even finding it useful in making his effects to be rather less expert in nut-cracking than most of us."
   - title: The Eyes of the Fourth Person Singular
     author: Bradley, Joff
     in:
@@ -318,7 +364,7 @@ bibliography:
       - interior space
     films:
       - Je, tu, il, elle
-      - Portrait of a Young Girl at the End of the 60s in Brussels
+      - Portrait of a Young Girl
     notes_file: notes/personal-pronouncements.md
   - title: What's beneath her smile? Subjectivity and desire in Germaine Dulac's The Smiling Madame Beudet and Chantal Akerman's Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles
     author: Flitterman-Lewis, Sandy
@@ -533,33 +579,6 @@ bibliography:
       - diaspora
     notes: |
       - I haven't read this yet, but it seems like it could be very relevant to my research on postmemorial objects in Akerman's work
-  - title: The Practice of Everyday Life
-    author: de Certeau, Michel
-    year: 1984
-    translator: Rendall, Steven
-    publisher: University of California Press
-    notes: |
-      - I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but it seems very interesting. That essay seems to focus on the "Walking in the City" chapter.
-    tags:
-      - architecture
-      - urban space
-      - language
-      - unread
-  - title: Women, Chora, Dwelling
-    author: Grosz, Elizabeth
-    in:
-      title: 'Space, Time and Perversion: Essays on the Politics of Bodies'
-      year: 1995
-      publisher: Routledge
-    tags:
-      - chora
-      - architecture
-      - urban space
-      - gender
-      - unread
-    notes: |
-      - I have not read this yet, just come across quotes in the essay "The feminine side of New York: travelogue, autobiography and architecture in News from Home", but this is where that essay gets the idea of the close-to-the-streets urban space as feminine from.
-    pages: 111-124
   - title: Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles
     author: Bergstrom, Janet
     in:
@@ -596,7 +615,7 @@ bibliography:
       - time
     films:
       - Jeanne Dielman
-      - The Beloved Child, or I Play at Being a Married Woman
+      - The Beloved Child
     notes: |
       - Sources like to say that Akerman did not consider Jeanne Dielman to be a feminist film, but in this interview she explicitly says that she does think it is a feminist film. I think this is an important point to note, because it seems like a lot of people have misinterpreted her stance on this. Not wanting to be pigeonholed as a feminist filmmaker is not the same as not thinking that her work is feminist.
         - "I do think it's a feminist film because I give space to things which were never, almost never, shown in that way, like the daily gestures of a woman. They are the lowest in the hierarchy of film images. A kiss or a car crash come higher, and I don't think that's an accident. It's because these are women's gestures that they count for so little. That's one reason I think it's a feminist film."
@@ -647,17 +666,6 @@ bibliography:
       - Saute ma ville
       - News from Home
       - Je, tu, il, elle
-  - title: 'Kafka: Toward a Minor Literature'
-    authors:
-      - Deleuze, Gilles
-      - Guattari, Félix
-    publisher: University of Minnesota Press
-    year: 1986
-    tags:
-      - Deleuze & Guattari
-      - unread
-    notes: |
-      I have not read this yet, but Akerman references it directly for its discussion of the mother tongue, and the idea of "minor literature" is very applicable to Akerman's "minor cinema".
   - title: 'Antifascism and the Avant-Garde: Radical Documentary in the 1960s'
     author: Alekseyeva, Julia
     publisher: University of California Press
@@ -680,6 +688,56 @@ bibliography:
       - time
       - memory
     notes_file: notes/in-search-of-lost-time-the-way-by-swanns.md
+tag_groups:
+  - name: People
+    tags:
+      - Chantal Akerman
+      - Marcel Proust
+      - Franz Kafka
+      - Deleuze & Guattari
+      - Jacques Lacan
+      - Walter Benjamin
+      - Tarkovsky
+  - name: Themes & places
+    tags:
+      - time
+      - interior space
+      - memory
+      - desire
+      - motherhood
+      - daughterhood
+      - New York
+      - architecture
+      - urban space
+      - exile
+      - diaspora
+  - name: Concepts & theory
+    tags:
+      - respectful distance
+      - subjectivity
+      - queerness
+      - feminism
+      - authorship
+      - identity
+      - jouissance
+      - language
+      - chora
+      - gender
+      - postmemory
+      - postmemorial objects
+      - metaphor
+      - symbolism
+      - scopophilia
+      - structuralism
+      - fact/fiction
+  - name: Form
+    tags:
+      - interview
+      - acting
+      - performance
+      - autobiography
+      - sound
+      - slow cinema
 themes_and_concepts:
   - name: postmemory
     definition: The relationship that the "generation after" bears to the personal, collective, and cultural trauma of those who came before—to experiences they "remember" only by means of the stories, images, and behaviors among which they grew up.
