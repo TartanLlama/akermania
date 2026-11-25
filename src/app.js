@@ -54,8 +54,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         updateFilterAvailability();
     });
-    document.body.classList.add('mobile-filters-enabled');
-
     // This was cobbled together from various things I found online:
     // the basic idea is to both update the scrollbar thumb size
     // and position based on the content and the current scroll position,
